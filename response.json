@@ -1,0 +1,1900 @@
+{
+    "default": {
+        "trendingSearchesDays": [
+            {
+                "date": "20221019",
+                "formattedDate": "Wednesday, October 19, 2022",
+                "trendingSearches": [
+                    {
+                        "title": {
+                            "query": "NBA",
+                            "exploreLink": "/trends/explore?q=NBA&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "20K+",
+                        "relatedQueries": [
+                            {
+                                "query": "warriors vs lakers",
+                                "exploreLink": "/trends/explore?q=warriors+vs+lakers&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "Warriors",
+                                "exploreLink": "/trends/explore?q=Warriors&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "lakers vs warriors",
+                                "exploreLink": "/trends/explore?q=lakers+vs+warriors&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "Golden State Warriors",
+                                "exploreLink": "/trends/explore?q=Golden+State+Warriors&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "Stephen Curry",
+                                "exploreLink": "/trends/explore?q=Stephen+Curry&date=now+7-d&geo=SG"
+                            }
+                        ],
+                        "image": {
+                            "newsUrl": "https://www.straitstimes.com/sport/rakuten-is-nbas-secret-weapon-for-winning-fans-in-japan",
+                            "source": "The Straits Times",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSw33_OVxBaofPQwheUqDbo6WxHmFYYLvwmigz-uCrR-Pok16l1VqWbFwqnyg9mp3TMh801RzQb"
+                        },
+                        "articles": [
+                            {
+                                "title": "Rakuten is NBA&#39;s secret weapon for winning fans in Japan",
+                                "timeAgo": "4h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/sport/rakuten-is-nbas-secret-weapon-for-winning-fans-in-japan",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSw33_OVxBaofPQwheUqDbo6WxHmFYYLvwmigz-uCrR-Pok16l1VqWbFwqnyg9mp3TMh801RzQb"
+                                },
+                                "url": "https://www.straitstimes.com/sport/rakuten-is-nbas-secret-weapon-for-winning-fans-in-japan",
+                                "snippet": "NEW YORK \u2013 On a recent Sunday afternoon, a basketball fan in a Cleveland Cavaliers jersey took his seat for a pre-season National Basketball Association&nbsp;..."
+                            },
+                            {
+                                "title": "How Luka Doncic built the NBA&#39;s most dangerous isolation repertoire",
+                                "timeAgo": "4h ago",
+                                "source": "ESPN",
+                                "image": {
+                                    "newsUrl": "https://www.espn.com/nba/story/_/id/34822076/how-luka-doncic-built-nba-most-dangerous-isolation-repertoire",
+                                    "source": "ESPN",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ1LL10joOZBxClaixxCJd8vl7LEF1xdab5xopUNuMo6mV1LMevpPh5jMsRGOyo54ow1zdD9WKC"
+                                },
+                                "url": "https://www.espn.com/nba/story/_/id/34822076/how-luka-doncic-built-nba-most-dangerous-isolation-repertoire",
+                                "snippet": "No player goes 1-on-1 more than Luka Doncic. There are plenty of impressive reasons why."
+                            },
+                            {
+                                "title": "NBA opening night: Warriors top Lakers to open title defense as ...",
+                                "timeAgo": "10h ago",
+                                "source": "The Guardian",
+                                "image": {
+                                    "newsUrl": "https://www.theguardian.com/sport/2022/oct/18/nba-opening-night-celtics-sixers-warriors-lakers",
+                                    "source": "The Guardian",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcT410QIEAP_jX5cX6z1zhkPH7Q_S0Rf0_ODbqDLzDYbm4mwiYcqU-iLUXE3M5e3zhKaz6h6O3Qs"
+                                },
+                                "url": "https://www.theguardian.com/sport/2022/oct/18/nba-opening-night-celtics-sixers-warriors-lakers",
+                                "snippet": "Stephen Curry&#39;s Warriors beat LeBron James and the Lakers on Tuesday night after receiving their championship rings in a pre-game ceremony."
+                            },
+                            {
+                                "title": "NBA: Warriors thump Lakers in season opener",
+                                "timeAgo": "9h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/sport/nba-warriors-thump-lakers-in-season-opener",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5mzi3BS980p-VNQoabdW04GZ6cL5Mq3IDhb2SYRFc9_8Ue6CygebHVUj4_AuQ_ioBCWa4E9OA"
+                                },
+                                "url": "https://www.straitstimes.com/sport/nba-warriors-thump-lakers-in-season-opener",
+                                "snippet": "(From left) Golden State Warriors&#39; Andre Iguodala, Stephen Curry, Draymond Green and Klay Thompson posing with their championship rings. PHOTO: AFP. Updated."
+                            },
+                            {
+                                "title": "NBA&#39;s Bad Behavior Persists Despite $36 Million in Fines. Here&#39;s Why",
+                                "timeAgo": "44m ago",
+                                "source": "Bloomberg",
+                                "image": {
+                                    "newsUrl": "https://www.bloomberg.com/news/articles/2022-10-19/nba-players-are-acting-up-despite-36-million-in-fines-here-s-why",
+                                    "source": "Bloomberg",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSfhj8rgV5N4LQXTZu-daRq2Fn8i4zYqj-qSN2pqKe12arz0Py3fWrG7dfJ0JuxjVAl7O43ZaJn"
+                                },
+                                "url": "https://www.bloomberg.com/news/articles/2022-10-19/nba-players-are-acting-up-despite-36-million-in-fines-here-s-why",
+                                "snippet": "Fines against NBA players have skyrocketed but they don&#39;t seem to be deterring bad behavior. At least $36 million in penalties were levied against players&nbsp;..."
+                            },
+                            {
+                                "title": "After The NBA Japan Games 2022, Japanese Fans Are Hungry For ...",
+                                "timeAgo": "1d ago",
+                                "source": "Forbes",
+                                "image": {
+                                    "newsUrl": "https://www.forbes.com/sites/joelrush/2022/10/18/after-the-nba-japan-games-2022-japanese-fans-are-hungry-for-more/",
+                                    "source": "Forbes",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTuqa3GwlCaGuNG0ILVghsBgAUtVNh8C540xswSXBkAPJ81BXOgzY6qPjACqzoRdsIH-CzZXJk"
+                                },
+                                "url": "https://www.forbes.com/sites/joelrush/2022/10/18/after-the-nba-japan-games-2022-japanese-fans-are-hungry-for-more/",
+                                "snippet": "The NBA Japan Games 2022 have come and gone, but Japanese fans are eager for more live viewing opportunities and the growth of the league in their country."
+                            },
+                            {
+                                "title": "Rakuten becomes the NBA&#39;s secret weapon for winning fans in Japan",
+                                "timeAgo": "9h ago",
+                                "source": "The Japan Times",
+                                "image": {
+                                    "newsUrl": "https://www.japantimes.co.jp/sports/2022/10/19/basketball/nba/nba-japan-rakuten-warriors/",
+                                    "source": "The Japan Times",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSKvFVkK0ZxMxHqLR1PqQV2vAyTrIh79n34FAy_rLjqV6Qo2ZEV0E3_gi8wiYTsBFNCSbano7i9"
+                                },
+                                "url": "https://www.japantimes.co.jp/sports/2022/10/19/basketball/nba/nba-japan-rakuten-warriors/",
+                                "snippet": "On a recent Sunday afternoon, a basketball fan in a Cleveland Cavaliers jersey took his seat for a preseason NBA game in a sold-out arena."
+                            },
+                            {
+                                "title": "NBA Twitter reacts to Opening Night: &#39;Good news is the Lakers could ...",
+                                "timeAgo": "9h ago",
+                                "source": "Yahoo Sports",
+                                "image": {
+                                    "newsUrl": "https://sports.yahoo.com/nba-twitter-reacts-opening-night-070023101.html",
+                                    "source": "Yahoo Sports",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSrmFZEUiMPKef0xkDGZAavonKmxS3cF7f7z65PU6L8RC7QNHNhFx6eglfuzoOzr5qW-EI17pW8"
+                                },
+                                "url": "https://sports.yahoo.com/nba-twitter-reacts-opening-night-070023101.html",
+                                "snippet": "Here&#39;s how NBA Twitter reacted to the Warriors blowing out the Lakers on opening night, plus James Harden&#39;s viral moment."
+                            },
+                            {
+                                "title": "How the Warriors beat the Lakers 123-109 on NBA opening night ...",
+                                "timeAgo": "3h ago",
+                                "source": "The Athletic",
+                                "image": {
+                                    "newsUrl": "https://theathletic.com/live-blogs/lakers-warriors-score-live-updates/seKvk5MefsX9/",
+                                    "source": "The Athletic",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkAqa-MJVl15XDMKvbBRO5Yq000hp9_Co-cj0mxXOg-97wtEwkWiM4XQefatNgkt7KZekUeN_t"
+                                },
+                                "url": "https://theathletic.com/live-blogs/lakers-warriors-score-live-updates/seKvk5MefsX9/",
+                                "snippet": "The Warriors&#39; pregame ceremony featured speeches from Steph Curry and Klay Thompson, a video commemorating their championship season and an appreciation of&nbsp;..."
+                            },
+                            {
+                                "title": "NBA: Warriors and Celtics shine in season opener | Africanews",
+                                "timeAgo": "7h ago",
+                                "source": "Africanews English",
+                                "image": {
+                                    "newsUrl": "https://www.africanews.com/2022/10/19/nba-warriors-and-celtics-shine-in-season-opener/",
+                                    "source": "Africanews English",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRfK2jtzKxVT-OXC9SY0VjKhnHPNGeedWZo24kHKpBd6dvgQHBC-T_4-3dIKozIgcQrUsGpchUr"
+                                },
+                                "url": "https://www.africanews.com/2022/10/19/nba-warriors-and-celtics-shine-in-season-opener/",
+                                "snippet": "Stephen Curry began the season with 33 points, and the Golden State Warriors beat the Los Angeles Lakers 123-109 on Tuesday night after receiving their&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=NBA#NBA"
+                    },
+                    {
+                        "title": {
+                            "query": "Apple",
+                            "exploreLink": "/trends/explore?q=Apple&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "20K+",
+                        "relatedQueries": [
+                            {
+                                "query": "iPad",
+                                "exploreLink": "/trends/explore?q=iPad&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "iPad Pro 2022",
+                                "exploreLink": "/trends/explore?q=iPad+Pro+2022&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "iPad Pro",
+                                "exploreLink": "/trends/explore?q=iPad+Pro&date=now+7-d&geo=SG"
+                            },
+                            {
+                                "query": "apple ipad",
+                                "exploreLink": "/trends/explore?q=apple+ipad&date=now+7-d&geo=SG"
+                            }
+                        ],
+                        "image": {
+                            "newsUrl": "https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/",
+                            "source": "Apple Newsroom",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD8efOlRBJWwnZ2zxigBviw4Cgse9oWbvNM--MA7qLp_ruDCEeEjUFb0LSKk9M_s7wLLWYcy4o"
+                        },
+                        "articles": [
+                            {
+                                "title": "Apple introduces the powerful next-generation Apple TV 4K",
+                                "timeAgo": "1d ago",
+                                "source": "Apple Newsroom",
+                                "image": {
+                                    "newsUrl": "https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/",
+                                    "source": "Apple Newsroom",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSD8efOlRBJWwnZ2zxigBviw4Cgse9oWbvNM--MA7qLp_ruDCEeEjUFb0LSKk9M_s7wLLWYcy4o"
+                                },
+                                "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/",
+                                "snippet": "HDR10+ support joins Dolby Vision on Apple TV 4K, so users can watch their favorite movies and TV shows in the best quality possible across more TVs.<sup>1</sup> Running&nbsp;..."
+                            },
+                            {
+                                "title": "Apple introduces next-generation iPad Pro, supercharged by the M2 ...",
+                                "timeAgo": "1d ago",
+                                "source": "Apple Newsroom",
+                                "image": {
+                                    "newsUrl": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+                                    "source": "Apple Newsroom",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSCbeiBnizKQTy-s5FnGkLNfb9H7y8FSlNU-tcY01jwR2x3iq1R2hYbOvuDlT0J4ROZMI6eUfhD"
+                                },
+                                "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+                                "snippet": "The new iPad Pro features superfast Wi-Fi 6E, ProRes video capture, a next-level Apple Pencil hover experience, and powerful features in iPadOS 16."
+                            },
+                            {
+                                "title": "Apple iPad 2022: The Biggest Update Yet, But There&#39;s A Catch",
+                                "timeAgo": "1d ago",
+                                "source": "Forbes",
+                                "image": {
+                                    "newsUrl": "https://www.forbes.com/sites/davidphelan/2022/10/18/apple-ipad-2022-the-biggest-update-yet-but-theres-a-catch/",
+                                    "source": "Forbes",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSz9nm8nhYpwVmL6FsEUVioRjAj20Z40JNklBb2CKEtEkJne7eGcxS5OUhRnswXQghGTn0PbDsH"
+                                },
+                                "url": "https://www.forbes.com/sites/davidphelan/2022/10/18/apple-ipad-2022-the-biggest-update-yet-but-theres-a-catch/",
+                                "snippet": "The new iPad has just been launched. It&#39;s bigger, more colorful and a lot more expensive."
+                            },
+                            {
+                                "title": "Apple iPad Pro With M2 Chip: Five Things To Know | CRN",
+                                "timeAgo": "2h ago",
+                                "source": "CRN",
+                                "image": {
+                                    "newsUrl": "https://www.crn.com/news/computing/apple-ipad-pro-with-m2-chip-five-things-to-know",
+                                    "source": "CRN",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQcm5aMLIFHCHQg4HRdlAwMvyPEzx2dOpYhU6wFTKiYfg0XylN9w0eBkwBX2JPDynWf80eAY4ZF"
+                                },
+                                "url": "https://www.crn.com/news/computing/apple-ipad-pro-with-m2-chip-five-things-to-know",
+                                "snippet": "The Cupertino, Calif.-based tech powerhouse launches a top-of-line tablet and a redesigned regular iPad to round out its mobile offerings."
+                            },
+                            {
+                                "title": "Apple unveils upgraded iPads and lower-cost set-top TV box",
+                                "timeAgo": "17h ago",
+                                "source": "The Business Times",
+                                "image": {
+                                    "newsUrl": "https://www.businesstimes.com.sg/technology/apple-unveils-upgraded-ipads-and-lower-cost-set-top-tv-box",
+                                    "source": "The Business Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTHsoy34V_Wjvtw9inPXrh3elbXvkX8Qbyv4dsRSTZX5Ei9xX_6k_jt7a0h_malfY9NtJK1od7b"
+                                },
+                                "url": "https://www.businesstimes.com.sg/technology/apple-unveils-upgraded-ipads-and-lower-cost-set-top-tv-box",
+                                "snippet": "APPLE introduced its first redesigned entry-level iPad in five years, as well as a new speedier Pro model and a cheaper TV set-top box, seeking to entice&nbsp;..."
+                            },
+                            {
+                                "title": "Apple&#39;s new entry-level iPad just got more expensive",
+                                "timeAgo": "16h ago",
+                                "source": "The Washington Post",
+                                "image": {
+                                    "newsUrl": "https://www.washingtonpost.com/technology/2022/10/18/apple-ipad-2022-redesign-price/",
+                                    "source": "The Washington Post",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRX6sbxSxx_DAbgcjRyeMiwG-EZfDN4OmgqmEa02JlwVe_e4B47KbeCUSTbHaA1mLH5HcNyid77"
+                                },
+                                "url": "https://www.washingtonpost.com/technology/2022/10/18/apple-ipad-2022-redesign-price/",
+                                "snippet": "The colorful new iPad packs a lot of overdue changes -- but it&#39;ll cost you more than usual."
+                            },
+                            {
+                                "title": "Apple stock ticks down on report of cut to iPhone 14 Plus production",
+                                "timeAgo": "20h ago",
+                                "source": "CNBC",
+                                "image": {
+                                    "newsUrl": "https://www.cnbc.com/2022/10/18/apple-ticks-down-on-report-oof-cut-to-iphone-14-plus-production.html",
+                                    "source": "CNBC",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSrH8aYV40vYTW9Ujsdex6fAqwLaHuz2s-WxFEdAI7-LgAqZwPLreJXGbiPj-N1ln93nHqTST7l"
+                                },
+                                "url": "https://www.cnbc.com/2022/10/18/apple-ticks-down-on-report-oof-cut-to-iphone-14-plus-production.html",
+                                "snippet": "Shares of Apple dipped Tuesday after reports that the company is reducing production of its iPhone 14 Plus. One of Apple&#39;s manufacturers in China has been&nbsp;..."
+                            },
+                            {
+                                "title": "Apple launches new entry-level iPad, iPad Pro with M2 chip",
+                                "timeAgo": "11h ago",
+                                "source": "Lifestyle Asia",
+                                "image": {
+                                    "newsUrl": "https://www.lifestyleasia.com/bk/gear/tech/apple-ipad-ipad-pro-m2-chip-launched/",
+                                    "source": "Lifestyle Asia",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQTX7jPi4lpmcVfUHc3kB7s21UKIOvur4N9OiWjESCkGLfQw9oypieHXn_4IV0ohCs6mZjXewPN"
+                                },
+                                "url": "https://www.lifestyleasia.com/bk/gear/tech/apple-ipad-ipad-pro-m2-chip-launched/",
+                                "snippet": "The entry-level Apple iPad gets a new look and feel, while the new iPad Pro is now powered with an M2 chip. Here are all the details."
+                            },
+                            {
+                                "title": "Five Things You Need to Know to Start Your Day",
+                                "timeAgo": "15h ago",
+                                "source": "Bloomberg",
+                                "image": {
+                                    "newsUrl": "https://www.bloomberg.com/news/newsletters/2022-10-18/asia-news-today-us-spr-oil-release-apple-aapl-redesigned-ipad-stocks-rally",
+                                    "source": "Bloomberg",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRTYbv9bwziKbQ6cXeuhqGiuao7gaR0AOVxTuBSGmgiAY7jNePhyTa85w_b_X69HB6Uu1zcLqcL"
+                                },
+                                "url": "https://www.bloomberg.com/news/newsletters/2022-10-18/asia-news-today-us-spr-oil-release-apple-aapl-redesigned-ipad-stocks-rally",
+                                "snippet": "The US taps into emergency oil reserves. Netflix earnings report fuels a tech rally. Apple redesigns its iPad. Here&#39;s what you need to know today."
+                            },
+                            {
+                                "title": "Apple Announces New Apple TV 4K With A15 Bionic Chip and ...",
+                                "timeAgo": "14h ago",
+                                "source": "Mac Rumors",
+                                "image": {
+                                    "newsUrl": "https://www.macrumors.com/2022/10/18/apple-announces-apple-tv-with-a15-and-hdr10-for-129/",
+                                    "source": "Mac Rumors",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwtTDGoFPXATpdb3IXP1RTqpA8AGO4pca9CtQUuB3lelh6612XMwDIqEcHVWeBFSoxioaLSnQo"
+                                },
+                                "url": "https://www.macrumors.com/2022/10/18/apple-announces-apple-tv-with-a15-and-hdr10-for-129/",
+                                "snippet": "Apple today announced an updated Apple TV 4K model with the A15 Bionic chip, support for HDR10+, and an updated Siri Remote, for a starting price of..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Apple#Apple"
+                    },
+                    {
+                        "title": {
+                            "query": "West Indies vs Zimbabwe",
+                            "exploreLink": "/trends/explore?q=West+Indies+vs+Zimbabwe&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.hindustantimes.com/cricket/t20-world-cup-live-score-west-indies-vs-zimbabwe-101666167188722.html",
+                            "source": "Hindustan Times",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYejtg-C0zRnjh7l2qNhN98e9L-UGREpOvUoIkGQi32uh8IzN1nQJgGs4dHCV7MFrjQDJH6-lr"
+                        },
+                        "articles": [
+                            {
+                                "title": "T20 World Cup Live Score, West Indies vs Zimbabwe",
+                                "timeAgo": "7h ago",
+                                "source": "Hindustan Times",
+                                "image": {
+                                    "newsUrl": "https://www.hindustantimes.com/cricket/t20-world-cup-live-score-west-indies-vs-zimbabwe-101666167188722.html",
+                                    "source": "Hindustan Times",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRYejtg-C0zRnjh7l2qNhN98e9L-UGREpOvUoIkGQi32uh8IzN1nQJgGs4dHCV7MFrjQDJH6-lr"
+                                },
+                                "url": "https://www.hindustantimes.com/cricket/t20-world-cup-live-score-west-indies-vs-zimbabwe-101666167188722.html",
+                                "snippet": "West Indies vs Zimabwe Live Score, T20 World Cup: West Indies skipper Nicholas Pooran won the toss and opted to bat against Zimbabwe in their second match of&nbsp;..."
+                            },
+                            {
+                                "title": "West Indies vs Zimbabwe, 8th Match, Group B, ICC Mens T20 WC ...",
+                                "timeAgo": "5h ago",
+                                "source": "Cricbuzz",
+                                "url": "https://m.cricbuzz.com/cricket-commentary/43021/alzarri-double-strike-leaves-zim-in-trouble-early",
+                                "snippet": "Follow West Indies vs Zimbabwe, 8th Match, Group B, Oct 19, ICC Mens T20 WC 2022 with live Cricket score, ball by ball commentary updates on Cricbuzz."
+                            },
+                            {
+                                "title": "West Indies vs Zimbabwe Highlights, T20 World Cup 2022: Alzarri ...",
+                                "timeAgo": "6h ago",
+                                "source": "Times of India",
+                                "image": {
+                                    "newsUrl": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/west-indies-vs-zimbabwe-t20-world-cup-2022-8th-match-group-b-live-cricket-score-updates/liveblog/94959336.cms",
+                                    "source": "Times of India",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTeba-DTj_WLSfFcfNC8pXZQ6NmwsVH2N7rTcrkXjiSIcDC01z2Ku7d23dz10brbmwjekd1UkOa"
+                                },
+                                "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/west-indies-vs-zimbabwe-t20-world-cup-2022-8th-match-group-b-live-cricket-score-updates/liveblog/94959336.cms",
+                                "snippet": "Get live cricket score updates of match between West Indies and Zimbabwe. Check live scorecard, ball-by-ball commentary, cricket score online on Time."
+                            },
+                            {
+                                "title": "WI vs ZIM Highlights, T20 World Cup: Holder, Joseph sizzle as West ...",
+                                "timeAgo": "8h ago",
+                                "source": "Sportstar",
+                                "image": {
+                                    "newsUrl": "https://sportstar.thehindu.com/cricket/t20-world-cup/t20-world-cup-live-score-west-indies-vs-zimbabwe-wi-vs-zim-scorecard-updates-highlights/article66029980.ece",
+                                    "source": "Sportstar",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTEdVIIMZoFcZ-_FKHIIa6LIHOLtQ4tfgdeneahlN1G1Zu2u4WJpFazL75jrYjLJa8zFsTGosVe"
+                                },
+                                "url": "https://sportstar.thehindu.com/cricket/t20-world-cup/t20-world-cup-live-score-west-indies-vs-zimbabwe-wi-vs-zim-scorecard-updates-highlights/article66029980.ece",
+                                "snippet": "WI vs ZIM T20 World Cup: Get all the live score updates, commentary and highlights from the Group B match between West Indies and Zimbabwe on Wednesday."
+                            },
+                            {
+                                "title": "T20 World Cup, West Indies vs Zimbabwe, Highlights: Alzarri ...",
+                                "timeAgo": "6h ago",
+                                "source": "NDTVSports.com",
+                                "image": {
+                                    "newsUrl": "https://sports.ndtv.com/t20-world-cup-2022/t20-world-cup-west-indies-vs-zimbabwe-live-updates-3444852",
+                                    "source": "NDTVSports.com",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRauC7JHf1PrWTSraSwYbYUnq47bu_lWp9QmCN4YxChFSHewMwEaBsGo--IzqfXuigU50f6DQNW"
+                                },
+                                "url": "https://sports.ndtv.com/t20-world-cup-2022/t20-world-cup-west-indies-vs-zimbabwe-live-updates-3444852",
+                                "snippet": "WI vs ZIM, T20 World Cup Highlights: Alzarri Joseph&#39;s four-wicket haul and a 45-run knock by Johnson Charles, guided West Indies to victory by 31 runs&nbsp;..."
+                            },
+                            {
+                                "title": "Classy yorkers dig West Indies out of a hole against Zimbabwe",
+                                "timeAgo": "3h ago",
+                                "source": "Telegraph.co.uk",
+                                "image": {
+                                    "newsUrl": "https://www.telegraph.co.uk/cricket/2022/10/19/west-indies-vs-zimbabwe-live-score-latest-updates-2022-t20-world/",
+                                    "source": "Telegraph.co.uk",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRH-77VU9dcUTfPuAMCy7bZs_VrVD2S6pZ0WJ91CoRFvS-yVPZmKsJYqnHzHpcW5gnIungnyOhj"
+                                },
+                                "url": "https://www.telegraph.co.uk/cricket/2022/10/19/west-indies-vs-zimbabwe-live-score-latest-updates-2022-t20-world/",
+                                "snippet": "And so the lone team to have won the men&#39;s T20 World Cup twice seemed to be hurtling towards losing their second consecutive game in the opening stage of the&nbsp;..."
+                            },
+                            {
+                                "title": "West Indies vs Zimbabwe T20 World Cup, Highlights: WI clinch big ...",
+                                "timeAgo": "8h ago",
+                                "source": "Firstpost",
+                                "image": {
+                                    "newsUrl": "https://www.firstpost.com/firstcricket/sports-news/west-indies-vs-zimbabwe-live-score-t20-world-cup-group-b-updates-hobart-11476971.html",
+                                    "source": "Firstpost",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQnqgfQeYA1xqTywSoHNH6JeOpAbpJttuoK2EVbJLah7ot89fyTTzcZ6qFrJbrpNIsXs4ujjrsB"
+                                },
+                                "url": "https://www.firstpost.com/firstcricket/sports-news/west-indies-vs-zimbabwe-live-score-t20-world-cup-group-b-updates-hobart-11476971.html",
+                                "snippet": "Playing XI: West Indies: Kyle Mayers, Evin Lewis, Nicholas Pooran(wk/c), Shamarh Brooks, Rovman Powell, Johnson Charles, Jason Holder, Akeal Hosein,&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=West+Indies+vs+Zimbabwe#West%20Indies%20vs%20Zimbabwe"
+                    },
+                    {
+                        "title": {
+                            "query": "Man United vs Tottenham",
+                            "exploreLink": "/trends/explore?q=Man+United+vs+Tottenham&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.manutd.com/en/news/detail/erik-ten-hag-delivers-team-news-for-man-utd-v-tottenham-19-oct",
+                            "source": "Manchester United",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjjgE_hGOb7hHJEvi3fgNgJKnqeTEzxtYEMGZkUHMA2bm7PAutDKaRCoK9-9CkfFtRGuUT3U-j"
+                        },
+                        "articles": [
+                            {
+                                "title": "Erik ten Hag delivers team news for Man Utd v Tottenham",
+                                "timeAgo": "1d ago",
+                                "source": "Manchester United",
+                                "image": {
+                                    "newsUrl": "https://www.manutd.com/en/news/detail/erik-ten-hag-delivers-team-news-for-man-utd-v-tottenham-19-oct",
+                                    "source": "Manchester United",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjjgE_hGOb7hHJEvi3fgNgJKnqeTEzxtYEMGZkUHMA2bm7PAutDKaRCoK9-9CkfFtRGuUT3U-j"
+                                },
+                                "url": "https://www.manutd.com/en/news/detail/erik-ten-hag-delivers-team-news-for-man-utd-v-tottenham-19-oct",
+                                "snippet": "The manager delivers an update on his squad as the Reds prepare to welcome Spurs to Old Trafford."
+                            },
+                            {
+                                "title": "Manchester United vs Tottenham LIVE: Cristiano Ronaldo boasts ...",
+                                "timeAgo": "5h ago",
+                                "source": "talkSPORT.com",
+                                "image": {
+                                    "newsUrl": "https://talksport.com/football/1222172/manchester-united-tottenham-live-stream-cristiano-ronaldo-premier-league-kick-off-time-team-news-how-to-follow/",
+                                    "source": "talkSPORT.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQh62ITVxZ18vqzNfqV1hpTZYrD5-pdD49hPZVc7aiHIuAd14aBwOBsqwp0zHa8mAU2Di7oUhoO"
+                                },
+                                "url": "https://talksport.com/football/1222172/manchester-united-tottenham-live-stream-cristiano-ronaldo-premier-league-kick-off-time-team-news-how-to-follow/",
+                                "snippet": "Manchester United welcome Tottenham to Old Trafford tonight for another blockbuster clash in the Premier League. The hosts drew 0-0 to Newcastle last."
+                            },
+                            {
+                                "title": "Man United vs Tottenham simulated to get a Premier League score ...",
+                                "timeAgo": "8h ago",
+                                "source": "Football.London",
+                                "image": {
+                                    "newsUrl": "https://www.football.london/tottenham-hotspur-fc/news/man-united-tottenham-score-prediction-25292700",
+                                    "source": "Football.London",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRNlcwKX9X7Gwnya196QS6q6vIvCrWOvDfvHvfPjOYbAt2T_frY0yRTwh_J6hQWhXgKvGCSLEQX"
+                                },
+                                "url": "https://www.football.london/tottenham-hotspur-fc/news/man-united-tottenham-score-prediction-25292700",
+                                "snippet": "Tottenham face a trip to Manchester United in the Premier League on Wednesday, so we simulated the game to predict the outcome."
+                            },
+                            {
+                                "title": "Manchester United vs Tottenham: Live stream, TV channel, kick-off ...",
+                                "timeAgo": "1d ago",
+                                "source": "Goal.com",
+                                "image": {
+                                    "newsUrl": "https://www.goal.com/en-sg/news/man-utd-vs-tottenham-live-stream-tv-channel-kick-off-how-to-watch/bltcc72b83ae417f01d",
+                                    "source": "Goal.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTaoS6zqLNBb8zGGuBXd6jr_yUe3fDPG3G-C2ltft6rRRFfaGrEJKOWIQIp-xA5g-ZUM2bnvycY"
+                                },
+                                "url": "https://www.goal.com/en-sg/news/man-utd-vs-tottenham-live-stream-tv-channel-kick-off-how-to-watch/bltcc72b83ae417f01d",
+                                "snippet": "Where to watch Man Utd vs Tottenham Premier League game, plus kick-off time and team news."
+                            },
+                            {
+                                "title": "Manchester United vs Tottenham: Kick-off time today, prediction, TV ...",
+                                "timeAgo": "9h ago",
+                                "source": "Evening Standard",
+                                "image": {
+                                    "newsUrl": "https://www.standard.co.uk/sport/football/man-utd-vs-tottenham-kick-off-time-today-prediction-tv-live-stream-team-news-2022-latest-h2h-results-premier-league-preview-b1033341.html",
+                                    "source": "Evening Standard",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQMmDtjsxkGsQm3-tI5Y5U7VQZcGsqqcELLQ5b8wEwpjC6QyipkGj8MUDrq5UbV_PfLtHSMbkBC"
+                                },
+                                "url": "https://www.standard.co.uk/sport/football/man-utd-vs-tottenham-kick-off-time-today-prediction-tv-live-stream-team-news-2022-latest-h2h-results-premier-league-preview-b1033341.html",
+                                "snippet": "Two teams certainly not in top gear and yet still in strong top-four contention face off tonight as Manchester United host Tottenham in the Premier League."
+                            },
+                            {
+                                "title": "[VIDEO] All you need to know: Man United vs. Tottenham Hotspur",
+                                "timeAgo": "14h ago",
+                                "source": "Korea JoongAng Daily",
+                                "image": {
+                                    "newsUrl": "https://koreajoongangdaily.joins.com/2022/10/19/sports/football/Tottenham-Hotspur-manchester-united-Antonio-Conte/20221019102041958.html",
+                                    "source": "Korea JoongAng Daily",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTYbaBdhhC97bPLhO9zbLit2fgGDPJH2YwcOEgpP2APDmCrdaCCR5WSBDyiP9Ck6pR8e5Mu2d7N"
+                                },
+                                "url": "https://koreajoongangdaily.joins.com/2022/10/19/sports/football/Tottenham-Hotspur-manchester-united-Antonio-Conte/20221019102041958.html",
+                                "snippet": "Tottenham Hotspur take on Manchester United on Wednesday. Here&#39;s everything you need to know before the game. Spurs have a busy week in the Premier League&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Man+United+vs+Tottenham#Man%20United%20vs%20Tottenham"
+                    },
+                    {
+                        "title": {
+                            "query": "Liverpool vs West Ham",
+                            "exploreLink": "/trends/explore?q=Liverpool+vs+West+Ham&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.liverpoolfc.com/news/10-interesting-facts-and-figures-ahead-liverpool-v-west-ham",
+                            "source": "Liverpool FC",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTRh7dOVOH7cyYsdB9YSeXTc6wDa6W4wuf9dFwX4FiLQy1kaSuehxotLB1ukbw0FIZdr-WCTzQ5"
+                        },
+                        "articles": [
+                            {
+                                "title": "10 interesting facts and figures ahead of Liverpool v West Ham",
+                                "timeAgo": "7h ago",
+                                "source": "Liverpool FC",
+                                "image": {
+                                    "newsUrl": "https://www.liverpoolfc.com/news/10-interesting-facts-and-figures-ahead-liverpool-v-west-ham",
+                                    "source": "Liverpool FC",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTRh7dOVOH7cyYsdB9YSeXTc6wDa6W4wuf9dFwX4FiLQy1kaSuehxotLB1ukbw0FIZdr-WCTzQ5"
+                                },
+                                "url": "https://www.liverpoolfc.com/news/10-interesting-facts-and-figures-ahead-liverpool-v-west-ham",
+                                "snippet": "Enjoy a statistical preview of Liverpool&#39;s Premier League clash with West Ham United at Anfield. In the Premier League, Liverpool have won 32 of the 52&nbsp;..."
+                            },
+                            {
+                                "title": "Liverpool vs West Ham: Live stream, TV channel, kick-off time ...",
+                                "timeAgo": "18h ago",
+                                "source": "Goal.com",
+                                "image": {
+                                    "newsUrl": "https://www.goal.com/en-sg/news/liverpool-vs-west-ham-live-stream-tv-kick-off-time-where-to-watch/blt2747b64e142810a6",
+                                    "source": "Goal.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRP_Wrdxbx-BF6rNsgSUmf27oFJHGoTJIUgtl_ey_l-KhsOlO-jSeBn6cxNgLaLpuhVsY80mE7W"
+                                },
+                                "url": "https://www.goal.com/en-sg/news/liverpool-vs-west-ham-live-stream-tv-kick-off-time-where-to-watch/blt2747b64e142810a6",
+                                "snippet": "Where to watch Premier League game between Liverpool and West Ham, including live stream, TV channel, &amp; kick-off time."
+                            },
+                            {
+                                "title": "Liverpool vs West Ham: How to watch live, stream link, team news",
+                                "timeAgo": "2h ago",
+                                "source": "NBC Sports",
+                                "image": {
+                                    "newsUrl": "https://soccer.nbcsports.com/2022/10/19/liverpool-vs-west-ham-how-to-watch-live-stream-link-team-news/",
+                                    "source": "NBC Sports",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQn64eL067zxzIQC6SXwYHeTOsKEJGShhLI60PrF5ZUgZIGQF1e507zll0j0gEJx_BG615fs7CF"
+                                },
+                                "url": "https://soccer.nbcsports.com/2022/10/19/liverpool-vs-west-ham-how-to-watch-live-stream-link-team-news/",
+                                "snippet": "Liverpool host West Ham at Anfield buoyant from their big win against Manchester City which promises to reignite their season."
+                            },
+                            {
+                                "title": "Liverpool team vs West Ham predicted as Jordan Henderson and ...",
+                                "timeAgo": "1h ago",
+                                "source": "Liverpool.com",
+                                "image": {
+                                    "newsUrl": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-team-west-ham-nunez-25289930",
+                                    "source": "Liverpool.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR1L8n3AYRWFXtgAB8iCYMzSYv6fJS1aocRvDxyBLcZaqr1bA_9J6co4wOuyYTC-k_74lcACLkl"
+                                },
+                                "url": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-team-west-ham-nunez-25289930",
+                                "snippet": "Liverpool take on West Ham United in the Premier League later today. Here, three of our writers select the starting XIs we would like J\u00fcrgen Klopp to&nbsp;..."
+                            },
+                            {
+                                "title": "Liverpool vs West Ham LIVE: Jurgen Klopp to be on touchline ...",
+                                "timeAgo": "5h ago",
+                                "source": "talkSPORT.com",
+                                "image": {
+                                    "newsUrl": "https://talksport.com/football/1221878/liverpool-west-ham-live-stream-jurgen-klopp-suspended-man-city-premier-league-kick-off-time-team-news-how-to-follow/",
+                                    "source": "talkSPORT.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQTBE9ZEuiNU29alxOJ50LxeXwuWa2hT9TshgT2_y-v7qBMA-nB7zZkW7kVbFdt6ofByXtm1KabFQ"
+                                },
+                                "url": "https://talksport.com/football/1221878/liverpool-west-ham-live-stream-jurgen-klopp-suspended-man-city-premier-league-kick-off-time-team-news-how-to-follow/",
+                                "snippet": "Liverpool welcome West Ham to Anfield this evening with hopes of continuing their long-lasting unbeaten home record. The Reds picked up a crucial thr."
+                            },
+                            {
+                                "title": "Liverpool vs West Ham: Stream the game on Amazon Prime video ...",
+                                "timeAgo": "1h ago",
+                                "source": "TrustedReviews",
+                                "image": {
+                                    "newsUrl": "https://www.trustedreviews.com/news/liverpool-vs-west-ham-stream-the-game-on-amazon-prime-video-for-free-4275831",
+                                    "source": "TrustedReviews",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQlgOo_qosNQpRxlEQ6jmqWmedCwl546y_L3EyFYpED4R6yFjnTUrcMon44zPWodEwm57tE1szz"
+                                },
+                                "url": "https://www.trustedreviews.com/news/liverpool-vs-west-ham-stream-the-game-on-amazon-prime-video-for-free-4275831",
+                                "snippet": "How to watch Liverpool vs West Ham: The Premier League action is available to live-stream exclusively on Amazon Prime Video. Here&#39;s how to watch the Reds&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Liverpool+vs+West+Ham#Liverpool%20vs%20West%20Ham"
+                    },
+                    {
+                        "title": {
+                            "query": "Lakers",
+                            "exploreLink": "/trends/explore?q=Lakers&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.straitstimes.com/sport/nba-warriors-thump-lakers-in-season-opener",
+                            "source": "The Straits Times",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5mzi3BS980p-VNQoabdW04GZ6cL5Mq3IDhb2SYRFc9_8Ue6CygebHVUj4_AuQ_ioBCWa4E9OA"
+                        },
+                        "articles": [
+                            {
+                                "title": "NBA: Warriors thump Lakers in season opener",
+                                "timeAgo": "9h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/sport/nba-warriors-thump-lakers-in-season-opener",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcR5mzi3BS980p-VNQoabdW04GZ6cL5Mq3IDhb2SYRFc9_8Ue6CygebHVUj4_AuQ_ioBCWa4E9OA"
+                                },
+                                "url": "https://www.straitstimes.com/sport/nba-warriors-thump-lakers-in-season-opener",
+                                "snippet": "(From left) Golden State Warriors&#39; Andre Iguodala, Stephen Curry, Draymond Green and Klay Thompson posing with their championship rings. PHOTO: AFP. Updated."
+                            },
+                            {
+                                "title": "How the Warriors beat the Lakers 123-109 on NBA opening night ...",
+                                "timeAgo": "3h ago",
+                                "source": "The Athletic",
+                                "image": {
+                                    "newsUrl": "https://theathletic.com/live-blogs/lakers-warriors-score-live-updates/seKvk5MefsX9/",
+                                    "source": "The Athletic",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkAqa-MJVl15XDMKvbBRO5Yq000hp9_Co-cj0mxXOg-97wtEwkWiM4XQefatNgkt7KZekUeN_t"
+                                },
+                                "url": "https://theathletic.com/live-blogs/lakers-warriors-score-live-updates/seKvk5MefsX9/",
+                                "snippet": "The Warriors&#39; pregame ceremony featured speeches from Steph Curry and Klay Thompson, a video commemorating their championship season and an appreciation of&nbsp;..."
+                            },
+                            {
+                                "title": "Lakers&#39; Russell Westbrook cites coming off bench for hamstring strain",
+                                "timeAgo": "2h ago",
+                                "source": "ESPN",
+                                "image": {
+                                    "newsUrl": "https://www.espn.com/nba/story/_/id/34827948/lakers-russell-westbrook-cites-coming-bench-hamstring-strain",
+                                    "source": "ESPN",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTWMQaFAdX7Mawo32NC-O9EhoAZNrKq_lFJkdi0VIr0r0WOmi0K5Hz9J6MAIQITE7vfAAcT90JV"
+                                },
+                                "url": "https://www.espn.com/nba/story/_/id/34827948/lakers-russell-westbrook-cites-coming-bench-hamstring-strain",
+                                "snippet": "Russell Westbrook, back in the starting lineup in the Lakers&#39; opener Tuesday night, said he &quot;absolutely&quot; believes coming off the bench in L.A.&#39;s preseason&nbsp;..."
+                            },
+                            {
+                                "title": "LeBron James explains why Lakers can&#39;t make three-pointers",
+                                "timeAgo": "1h ago",
+                                "source": "Los Angeles Times",
+                                "image": {
+                                    "newsUrl": "https://www.latimes.com/sports/lakers/story/2022-10-19/lebron-james-explains-why-lakers-cant-make-three-pointers-warriors",
+                                    "source": "Los Angeles Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRzBNwlOPZj2MS0-N22WreukrQvJ2Xah24OORb3VAKSGktleDJ4FbkihRhw5WEgA57XEQs0hEc8"
+                                },
+                                "url": "https://www.latimes.com/sports/lakers/story/2022-10-19/lebron-james-explains-why-lakers-cant-make-three-pointers-warriors",
+                                "snippet": "LeBron James says it was no surprise that the Lakers made only 25% of their three-point shots in a season-opening loss to the Golden State Warriors."
+                            },
+                            {
+                                "title": "Warriors kick off title defense with win over Lakers",
+                                "timeAgo": "1h ago",
+                                "source": "Golden State of Mind",
+                                "image": {
+                                    "newsUrl": "https://www.goldenstateofmind.com/2022/10/19/23412353/warriors-raise-banner-lower-boom-on-lakers",
+                                    "source": "Golden State of Mind",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRK05syGUR527Q6iHni2yhRMfJM989YwoeWl-Gr6Ud91v4ssLI3n8sYpvspW14NleWn7tLdh-m_"
+                                },
+                                "url": "https://www.goldenstateofmind.com/2022/10/19/23412353/warriors-raise-banner-lower-boom-on-lakers",
+                                "snippet": "He had four fouls long before he made his first shot, almost 41 minutes into the game, and finished with three points and five fouls. In contrast, Klay Thompson&nbsp;..."
+                            },
+                            {
+                                "title": "Lakers vs. Warriors - NBA Game Recap - October 18, 2022 | ESPN",
+                                "timeAgo": "9h ago",
+                                "source": "ESPN",
+                                "image": {
+                                    "newsUrl": "https://www.espn.com/nba/recap/_/gameId/401468017",
+                                    "source": "ESPN",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkKJsHPaxCUkCeuKhxyUt7P6kq4uLu0Vsxp4eMcj6li6-M5rm26k6LlF9Gtcz___LMiJR6GR9h"
+                                },
+                                "url": "https://www.espn.com/nba/recap/_/gameId/401468017",
+                                "snippet": "Visit ESPN for the game recap of the Los Angeles Lakers vs. Golden State Warriors NBA basketball game on October 18, 2022."
+                            },
+                            {
+                                "title": "5 takeaways from Warriors&#39; season-opening win vs. Lakers on ring ...",
+                                "timeAgo": "2h ago",
+                                "source": "NBA.com",
+                                "image": {
+                                    "newsUrl": "https://www.nba.com/news/5-takeaways-warriors-lakers-opener-2022-23",
+                                    "source": "NBA.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSzylOaWxqN5L_8LBqYfAXHK-prSvW3gxLM82oO7MOSfvQaEIcBa-LgSM0eyi4GOv-e9OXgI4VB"
+                                },
+                                "url": "https://www.nba.com/news/5-takeaways-warriors-lakers-opener-2022-23",
+                                "snippet": "On a night Golden State received its championship rings, the defending champs showed much of what made them mighty a season ago."
+                            },
+                            {
+                                "title": "Lakers&#39; Russell Westbrook: Coming off bench led to injury",
+                                "timeAgo": "8h ago",
+                                "source": "Los Angeles Times",
+                                "image": {
+                                    "newsUrl": "https://www.latimes.com/sports/lakers/story/2022-10-19/russell-westbrook-injury",
+                                    "source": "Los Angeles Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQlikhrKNU5PcImHZnENxDfwd0jqnHW58_SfOP2Rn4nqO934cH26i0A_IDrCwDsXnVb0x405aK-"
+                                },
+                                "url": "https://www.latimes.com/sports/lakers/story/2022-10-19/russell-westbrook-injury",
+                                "snippet": "Russell Westbrook said he didn&#39;t know how to handle coming off the bench in the Lakers&#39; preseason finale and it &#39;absolutely&#39; led to his groin injury."
+                            },
+                            {
+                                "title": "NBA Twitter reacts to Opening Night: &#39;Good news is the Lakers could ...",
+                                "timeAgo": "9h ago",
+                                "source": "Yahoo Sports",
+                                "image": {
+                                    "newsUrl": "https://sports.yahoo.com/nba-twitter-reacts-opening-night-070023101.html",
+                                    "source": "Yahoo Sports",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSrmFZEUiMPKef0xkDGZAavonKmxS3cF7f7z65PU6L8RC7QNHNhFx6eglfuzoOzr5qW-EI17pW8"
+                                },
+                                "url": "https://sports.yahoo.com/nba-twitter-reacts-opening-night-070023101.html",
+                                "snippet": "Here&#39;s how NBA Twitter reacted to the Warriors blowing out the Lakers on opening night, plus James Harden&#39;s viral moment."
+                            },
+                            {
+                                "title": "Three things to know: Lakers can&#39;t shoot, Warriors can. Ballgame.",
+                                "timeAgo": "2h ago",
+                                "source": "NBC Sports",
+                                "image": {
+                                    "newsUrl": "https://nba.nbcsports.com/2022/10/19/three-things-to-know-lakers-cant-shoot-warriors-can-ballgame/",
+                                    "source": "NBC Sports",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT47uqeSlC7wyyhiweY8v5Enai6cUi3a9gImPmea7OvHSE1M6wmKHaLFYSm8MBUTSkXqQDD6lOf"
+                                },
+                                "url": "https://nba.nbcsports.com/2022/10/19/three-things-to-know-lakers-cant-shoot-warriors-can-ballgame/",
+                                "snippet": "This isn&#39;t a one-off, the Lakers shot 28.6% from 3 and 39.8% overall in the preseason. LeBron was asked about it after the game and threw the blame where it&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Lakers#Lakers"
+                    },
+                    {
+                        "title": {
+                            "query": "Arsenal vs Man City",
+                            "exploreLink": "/trends/explore?q=Arsenal+vs+Man+City&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.dailymail.co.uk/sport/football/article-11330997/Why-Arsenal-vs-Man-City-postponed-play.html",
+                            "source": "Daily Mail",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTCXNiJ3b6SAbiv_10AcNhSa5AKWNnu6tFUX7tlXeQJRPWe2dT72zB8b0M1VU1B89xyNOkUfE3A"
+                        },
+                        "articles": [
+                            {
+                                "title": "Why was Arsenal vs Man City postponed and when will they play?",
+                                "timeAgo": "7h ago",
+                                "source": "Daily Mail",
+                                "image": {
+                                    "newsUrl": "https://www.dailymail.co.uk/sport/football/article-11330997/Why-Arsenal-vs-Man-City-postponed-play.html",
+                                    "source": "Daily Mail",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTCXNiJ3b6SAbiv_10AcNhSa5AKWNnu6tFUX7tlXeQJRPWe2dT72zB8b0M1VU1B89xyNOkUfE3A"
+                                },
+                                "url": "https://www.dailymail.co.uk/sport/football/article-11330997/Why-Arsenal-vs-Man-City-postponed-play.html",
+                                "snippet": "Arsenal vs Manchester City is the striking absentee from the midweek Premier League schedule, with ALL 18 other teams involved... but why was the clash between&nbsp;..."
+                            },
+                            {
+                                "title": "The exact dates Arsenal vs Man City could be rearranged as ...",
+                                "timeAgo": "16h ago",
+                                "source": "Football.London",
+                                "image": {
+                                    "newsUrl": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-man-city-rearranged-date-25292733",
+                                    "source": "Football.London",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT0V0BguxjKsUXj0GvwfjfZzPdAZERkxtWVVbsmViKp5Dfg0QbJsg7rU5a7ri-jX1hRQ7Kx3_GY"
+                                },
+                                "url": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-man-city-rearranged-date-25292733",
+                                "snippet": "Arsenal were originally meant to be taking on Manchester City on Wednesday night but the game&#39;s postponement means a new date is set to be confirmed by the&nbsp;..."
+                            },
+                            {
+                                "title": "Why Arsenal vs Man City is postponed and when it could be played",
+                                "timeAgo": "8h ago",
+                                "source": "Evening Standard",
+                                "image": {
+                                    "newsUrl": "https://www.standard.co.uk/sport/football/why-arsenal-vs-man-city-postponed-new-date-premier-league-b1033685.html",
+                                    "source": "Evening Standard",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQraYLGT7pQCSVWkty1EbwnEyMNYXRxG2ItnYabJXV1MqjjgFgu3UB1mY4XkENWz_9qn5_iPLC-"
+                                },
+                                "url": "https://www.standard.co.uk/sport/football/why-arsenal-vs-man-city-postponed-new-date-premier-league-b1033685.html",
+                                "snippet": "The Premier League&#39;s top two Arsenal and Manchester City were set to face off tonight before yet more match postponements wreaked havoc with the schedule."
+                            },
+                            {
+                                "title": "Arsenal vs Man City exact dates Premier League fixture could be ...",
+                                "timeAgo": "2h ago",
+                                "source": "Manchester Evening News",
+                                "image": {
+                                    "newsUrl": "https://www.manchestereveningnews.co.uk/sport/football/football-news/arsenal-man-city-rescheduled-postponed-25301105",
+                                    "source": "Manchester Evening News",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQqoWUWdjz0NfMuOBlb4Ct7ribySvfflmSmZOPl4MsWGQ_1Eus6qZeT1A_fSKzj_r_0ms-aJSyp"
+                                },
+                                "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/arsenal-man-city-rescheduled-postponed-25301105",
+                                "snippet": "A new date for Arsenal vs Manchester City is yet to be announced after the initial fixture was postponed."
+                            },
+                            {
+                                "title": "Why has Arsenal vs Manchester City been postponed?",
+                                "timeAgo": "6h ago",
+                                "source": "The Athletic",
+                                "image": {
+                                    "newsUrl": "https://theathletic.com/3705214/2022/10/19/arsenal-manchester-city-why/",
+                                    "source": "The Athletic",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRLpWNkfQUAbGK41PWHXBmzXGlyHXqJCag2pnwOO0vDYGDoC7T_FcIXRd5-KNpO-XQZz6oJVtBD"
+                                },
+                                "url": "https://theathletic.com/3705214/2022/10/19/arsenal-manchester-city-why/",
+                                "snippet": "Arsenal will not host Manchester City at the Emirates on Wednesday evening due to a rearranged Europa League fixture."
+                            },
+                            {
+                                "title": "Why Arsenal vs Man City is postponed but all other Premier League ...",
+                                "timeAgo": "8h ago",
+                                "source": "Mirror.co.uk",
+                                "image": {
+                                    "newsUrl": "https://www.mirror.co.uk/sport/football/news/why-is-arsenal-mancity-postponed-28210413",
+                                    "source": "Mirror.co.uk",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS5xEOLJUbH9GWJ3aNrgcOzq8DbTDlMgLU4Hx7XmnuuDNXKOIUZgkWl2b6WqPvgI3LhT5aF5xGz"
+                                },
+                                "url": "https://www.mirror.co.uk/sport/football/news/why-is-arsenal-mancity-postponed-28210413",
+                                "snippet": "The Premier League giants were due to face off in the midweek fixtures but will now be the only fixture that fails to go ahead on Matchday 12 - and Mirror&nbsp;..."
+                            },
+                            {
+                                "title": "Why are Manchester City not playing this week? Premier League ...",
+                                "timeAgo": "1d ago",
+                                "source": "Sporting News",
+                                "image": {
+                                    "newsUrl": "https://www.sportingnews.com/us/football/news/manchester-city-not-playing-premier-league-schedule/ut5nmobhytqkbuo7l3mzcinq",
+                                    "source": "Sporting News",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQfdqBg2Uei6A0PFyvbWOjhfqX0LYusZazYX_UCxuNBk_CJM87BFfH80ln6MP1YxVh5OK1v6F6k"
+                                },
+                                "url": "https://www.sportingnews.com/us/football/news/manchester-city-not-playing-premier-league-schedule/ut5nmobhytqkbuo7l3mzcinq",
+                                "snippet": "The top two in the Premier League, Arsenal and Manchester City, are not joining in the feast of football this week. Here&#39;s why their fixture isn&#39;t taking&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Arsenal+vs+Man+City#Arsenal%20vs%20Man%20City"
+                    },
+                    {
+                        "title": {
+                            "query": "COE",
+                            "exploreLink": "/trends/explore?q=COE&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.channelnewsasia.com/singapore/coe-prices-oct-19-2022-lta-3014451",
+                            "source": "CNA",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTrl0nK-H4umy9GtopyL_2SWNQ6sgq87sy7OV6UChsEEuBHhVY27y4jkrdv1CXeVPYku265bjFx"
+                        },
+                        "articles": [
+                            {
+                                "title": "COE premiums for motorcycles rise again, hitting new record of S ...",
+                                "timeAgo": "7h ago",
+                                "source": "CNA",
+                                "image": {
+                                    "newsUrl": "https://www.channelnewsasia.com/singapore/coe-prices-oct-19-2022-lta-3014451",
+                                    "source": "CNA",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTrl0nK-H4umy9GtopyL_2SWNQ6sgq87sy7OV6UChsEEuBHhVY27y4jkrdv1CXeVPYku265bjFx"
+                                },
+                                "url": "https://www.channelnewsasia.com/singapore/coe-prices-oct-19-2022-lta-3014451",
+                                "snippet": "This is the last tender under the current COE quota. The quota will drop by 13.7 per cent for the November to January quarter."
+                            },
+                            {
+                                "title": "Motorcycle COE premiums hit new high of $12801, other categories ...",
+                                "timeAgo": "7h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/singapore/transport/motorcycle-coe-premiums-hit-new-high-of-12801-other-categories-also-up-before-lower-quota-kicks-in",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSyuh8WSEqsL30XNxH6FoPFiUvjGAdX3pFYEyHtDrJa-AfGPiIvAh_4J5wNBXLmgKbo2aAGCnuy"
+                                },
+                                "url": "https://www.straitstimes.com/singapore/transport/motorcycle-coe-premiums-hit-new-high-of-12801-other-categories-also-up-before-lower-quota-kicks-in",
+                                "snippet": "In the category for more powerful cars and EVs the COE price ended at $110000, up 14.8 per cent from $95856. Read more at straitstimes.com."
+                            },
+                            {
+                                "title": "Motorcycle COE premiums hit new high of S$12801, other ...",
+                                "timeAgo": "7h ago",
+                                "source": "The Business Times",
+                                "image": {
+                                    "newsUrl": "https://www.businesstimes.com.sg/transport/motorcycle-coe-premiums-hit-new-high-of-s12801-other-categories-also-up-before-lower-quota",
+                                    "source": "The Business Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTN1lN5_sHW7sWgfMncGwGieeo4ouJO9i3wsHocBcsU12odH5Pck1rEYIgfnfFPdNanyyU4FmNd"
+                                },
+                                "url": "https://www.businesstimes.com.sg/transport/motorcycle-coe-premiums-hit-new-high-of-s12801-other-categories-also-up-before-lower-quota",
+                                "snippet": "MOTORCYCLES led the charge as certificate of entitlement (COE) premiums went up in all categories in the latest tender on Wednesday (Oct 19)."
+                            },
+                            {
+                                "title": "COE prices rise across the board, with motorcycle premiums hitting ...",
+                                "timeAgo": "6h ago",
+                                "source": "TODAY",
+                                "image": {
+                                    "newsUrl": "https://www.todayonline.com/singapore/coe-prices-rise-across-board-motorcycle-premiums-hitting-new-high-s12801-2023736",
+                                    "source": "TODAY",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRh5XQWTfaOJIa_AJublRpAT69negqFrKp4ZHiQs1K9B-_4mj_jEi4SzViQFrgHrnJ_wBxDlVR3"
+                                },
+                                "url": "https://www.todayonline.com/singapore/coe-prices-rise-across-board-motorcycle-premiums-hitting-new-high-s12801-2023736",
+                                "snippet": "SINGAPORE \u2014 Certificate of Entitlement (COE) prices rose across all categories at the end of the latest bidding exercise on Wednesday (Oct 19), with those&nbsp;..."
+                            },
+                            {
+                                "title": "Singapore COE prices rise across the board, with motorcycle ...",
+                                "timeAgo": "1h ago",
+                                "source": "Malay Mail",
+                                "image": {
+                                    "newsUrl": "https://www.malaymail.com/news/singapore/2022/10/19/singapore-coe-prices-rise-across-the-board-with-motorcycle-premiums-hitting-new-high-of-s12801/34578",
+                                    "source": "Malay Mail",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQMuqfW_RZgDqi7a9u6eZi1TQu6eeV1VC8h6aDELOTfDk-VmW1kkRu8hI6n4bb_I-NXyNVbMnHh"
+                                },
+                                "url": "https://www.malaymail.com/news/singapore/2022/10/19/singapore-coe-prices-rise-across-the-board-with-motorcycle-premiums-hitting-new-high-of-s12801/34578",
+                                "snippet": "SINGAPORE, Oct 19 \u2014 Certificate of Entitlement (COE) prices rose across all categories at the end of the latest bidding exercise today, with those in the&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=COE#COE"
+                    },
+                    {
+                        "title": {
+                            "query": "Myanmar",
+                            "exploreLink": "/trends/explore?q=Myanmar&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.reuters.com/world/asia-pacific/malaysia-deports-myanmar-asylum-seekers-despite-dangers-back-home-sources-2022-10-19/",
+                            "source": "Reuters",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdAetUpi1rlL5GsDo4DqARv5iaMrULZZ_bB9r_aYHahvlb6SYByPQM36K2bJMBnzxr189k7pNG"
+                        },
+                        "articles": [
+                            {
+                                "title": "Malaysia deports Myanmar asylum seekers despite dangers back ...",
+                                "timeAgo": "7h ago",
+                                "source": "Reuters",
+                                "image": {
+                                    "newsUrl": "https://www.reuters.com/world/asia-pacific/malaysia-deports-myanmar-asylum-seekers-despite-dangers-back-home-sources-2022-10-19/",
+                                    "source": "Reuters",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdAetUpi1rlL5GsDo4DqARv5iaMrULZZ_bB9r_aYHahvlb6SYByPQM36K2bJMBnzxr189k7pNG"
+                                },
+                                "url": "https://www.reuters.com/world/asia-pacific/malaysia-deports-myanmar-asylum-seekers-despite-dangers-back-home-sources-2022-10-19/",
+                                "snippet": "Malaysia deported 150 Myanmar nationals this month, including former navy officers seeking asylum, and plans to send back more despite the risk of arrest&nbsp;..."
+                            },
+                            {
+                                "title": "Eight killed as parcel bombs and gunfire rock Myanmar&#39;s biggest jail",
+                                "timeAgo": "3h ago",
+                                "source": "Reuters",
+                                "image": {
+                                    "newsUrl": "https://www.reuters.com/world/asia-pacific/explosions-myanmar-main-prison-kill-eight-media-2022-10-19/",
+                                    "source": "Reuters",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQdAetUpi1rlL5GsDo4DqARv5iaMrULZZ_bB9r_aYHahvlb6SYByPQM36K2bJMBnzxr189k7pNG"
+                                },
+                                "url": "https://www.reuters.com/world/asia-pacific/explosions-myanmar-main-prison-kill-eight-media-2022-10-19/",
+                                "snippet": "Bombs inside parcels exploded at Myanmar&#39;s biggest jail on Wednesday prompting soldiers to return fire in a confrontation in which at least eight people&nbsp;..."
+                            },
+                            {
+                                "title": "Bomb blasts outside Myanmar prison kill eight, wound 18",
+                                "timeAgo": "4h ago",
+                                "source": "CNA",
+                                "image": {
+                                    "newsUrl": "https://www.channelnewsasia.com/asia/bomb-blast-outside-myanmar-yangon-prison-jail-kill-eight-wound-18-junta-3014961",
+                                    "source": "CNA",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRTOkde8SHatrW6WrujujBtjMyt3Wj58ZWUk8xWwUGAg-7upRR65_TR3k4dFVLiAqeuiuG0FB4"
+                                },
+                                "url": "https://www.channelnewsasia.com/asia/bomb-blast-outside-myanmar-yangon-prison-jail-kill-eight-wound-18-junta-3014961",
+                                "snippet": "YANGON: At least two bombs exploded outside a prison in Myanmar&#39;s commercial hub Yangon on Wednesday (Oct 19), killing eight people and wounding 18."
+                            },
+                            {
+                                "title": "Explosions at Myanmar main prison kill 8: Media",
+                                "timeAgo": "7h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/asia/se-asia/explosions-at-myanmar-main-prison-kill-8-media",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQAwpeXlbrj_dRYEPcs_TAPW9nUX578t5Loynyb9BxRnJ9zLhTm-WdQEeOK1aid5XUMSyPi0AQZ"
+                                },
+                                "url": "https://www.straitstimes.com/asia/se-asia/explosions-at-myanmar-main-prison-kill-8-media",
+                                "snippet": "YANGON - At least eight people were killed and 13 others were injured by explosions at Myanmar&#39;s biggest jail, media reported on Wednesday."
+                            },
+                            {
+                                "title": "At least 8 killed in Myanmar Insein Prison blasts: Media reports",
+                                "timeAgo": "7h ago",
+                                "source": "Aljazeera.com",
+                                "image": {
+                                    "newsUrl": "https://www.aljazeera.com/news/2022/10/19/at-least-8-killed-in-myanmar-insein-prison-blast-media-reports",
+                                    "source": "Aljazeera.com",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcR1Bz5B1TIbE_29fMVkme6gMbADhfU_-iXnIWsfnEWEhGH7jWF-1jXz_Ybn7ahXreHD3eftk9BR"
+                                },
+                                "url": "https://www.aljazeera.com/news/2022/10/19/at-least-8-killed-in-myanmar-insein-prison-blast-media-reports",
+                                "snippet": "Parcel bombs are suspected in Insein Prison explosions that reportedly killed three staff and five visitors."
+                            },
+                            {
+                                "title": "Blasts kill at least 8 at Myanmar&#39;s Insein Prison",
+                                "timeAgo": "6h ago",
+                                "source": "ABC News",
+                                "image": {
+                                    "newsUrl": "https://abcnews.go.com/International/wireStory/blasts-kill-myanmars-insein-prison-91726625",
+                                    "source": "ABC News",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTMgkKVHPqW4mpkIUwj_ohhRVHaAq-qBm1Fp8-kfbrdPUUftM6FWxN9_qVmtrQAU3BYA4QXBZ4C"
+                                },
+                                "url": "https://abcnews.go.com/International/wireStory/blasts-kill-myanmars-insein-prison-91726625",
+                                "snippet": "A bombing near the front gate of Myanmar&#39;s main prison for political detainees has killed at least eight people, including visitors and prison personnel."
+                            },
+                            {
+                                "title": "Bomb blasts, gunfire at Myanmar&#39;s biggest prison kills eight ...",
+                                "timeAgo": "8h ago",
+                                "source": "myanmar-now",
+                                "image": {
+                                    "newsUrl": "https://myanmar-now.org/en/news/bomb-blasts-gunfire-at-myanmars-biggest-prison-kills-eight-including-guards",
+                                    "source": "myanmar-now",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQjslPGVzNFCDDXzsfY-g_BZFvi0v9A4GTNw21lmMk3On4OxAi0-xGtE6MHtPoydwEWSy9VeU2"
+                                },
+                                "url": "https://myanmar-now.org/en/news/bomb-blasts-gunfire-at-myanmars-biggest-prison-kills-eight-including-guards",
+                                "snippet": "Prison staff and civilians are reportedly among those killed after shots are allegedly fired from a watchtower at Yangon&#39;s Insein Prison following a parcel&nbsp;..."
+                            },
+                            {
+                                "title": "150 Myanmar asylum seekers deported despite dangers back home ...",
+                                "timeAgo": "7h ago",
+                                "source": "MalaysiaNow",
+                                "image": {
+                                    "newsUrl": "https://www.malaysianow.com/news/2022/10/19/150-myanmar-asylum-seekers-deported-despite-dangers-back-home-sources-say",
+                                    "source": "MalaysiaNow",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRtgOL6uFQ3RLdO0M_Qe_pGNboMCAOtTrUOX0SVg75jpRZdxtl0S1aH7MHFHp69ginVo8yGNO17"
+                                },
+                                "url": "https://www.malaysianow.com/news/2022/10/19/150-myanmar-asylum-seekers-deported-despite-dangers-back-home-sources-say",
+                                "snippet": "They say the authorities plan to send back more despite the risk of arrest they face in their home country."
+                            },
+                            {
+                                "title": "How Myanmar&#39;s Junta Threw Six Foreigners Behind Bars",
+                                "timeAgo": "6h ago",
+                                "source": "The Irrawaddy News Magazine",
+                                "image": {
+                                    "newsUrl": "https://www.irrawaddy.com/news/burma/how-myanmars-junta-threw-six-foreigners-behind-bars.html",
+                                    "source": "The Irrawaddy News Magazine",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRuu5AX-gbITP2nOmBQuYczjnCvaCOAZ6_V8llQT23bNgdRKLysEoflY5DRnZPy6mu2rIRixC-p"
+                                },
+                                "url": "https://www.irrawaddy.com/news/burma/how-myanmars-junta-threw-six-foreigners-behind-bars.html",
+                                "snippet": "Myanmar&#39;s military regime has arrested six foreigners since the military coup last year, including a former British ambassador to the country."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Myanmar#Myanmar"
+                    },
+                    {
+                        "title": {
+                            "query": "Anna May Wong",
+                            "exploreLink": "/trends/explore?q=Anna+May+Wong&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "2K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.bbc.com/news/entertainment-arts-63316940",
+                            "source": "BBC News",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTW5E8OicZIKdH-vhL_ZBYvvqDwnxazQxm4GEfLxPoT9ySut-G1IeH09ngDi9kFOB2yE4ec4Ds9"
+                        },
+                        "articles": [
+                            {
+                                "title": "Anna May Wong: Actress becomes first Asian American on US ...",
+                                "timeAgo": "2h ago",
+                                "source": "BBC News",
+                                "image": {
+                                    "newsUrl": "https://www.bbc.com/news/entertainment-arts-63316940",
+                                    "source": "BBC News",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTW5E8OicZIKdH-vhL_ZBYvvqDwnxazQxm4GEfLxPoT9ySut-G1IeH09ngDi9kFOB2yE4ec4Ds9"
+                                },
+                                "url": "https://www.bbc.com/news/entertainment-arts-63316940",
+                                "snippet": "She will appear as part of an effort to feature notable women on American quarters. Wong, who is considered the first Chinese American film star in Hollywood,&nbsp;..."
+                            },
+                            {
+                                "title": "Hollywood&#39;s Anna May Wong to become first Asian American on ...",
+                                "timeAgo": "1h ago",
+                                "source": "Reuters",
+                                "image": {
+                                    "newsUrl": "https://www.reuters.com/world/us/hollywoods-anna-may-wong-become-first-asian-american-us-currency-2022-10-19/",
+                                    "source": "Reuters",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ77_dnLKf0YbTSmm9C_85FKzz2txZ74OtXsCUqL33PLlLGCt3HlbawjGybc_FCeuPUnmoeo1-a"
+                                },
+                                "url": "https://www.reuters.com/world/us/hollywoods-anna-may-wong-become-first-asian-american-us-currency-2022-10-19/",
+                                "snippet": "The U.S. Mint will feature an Asian American on its currency for the first time when it issues a coin next week engraved with the image of actress Anna May&nbsp;..."
+                            },
+                            {
+                                "title": "Anna May Wong will be the first Asian American on US currency",
+                                "timeAgo": "8h ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/life/entertainment/anna-may-wong-will-be-the-first-asian-american-on-us-currency",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTbDYtxS-Nr_0ypNyOW8jMO1PX1Ym9Pwr0LB7-oRKb-7ZKsspxFDmjl2xO5mmTG8XlGy7MDAS-z"
+                                },
+                                "url": "https://www.straitstimes.com/life/entertainment/anna-may-wong-will-be-the-first-asian-american-on-us-currency",
+                                "snippet": "The new quarter honours Anna May Wong&#39;s trailblazing career and the difficulties she faced as an Asian-American actress. PHOTO: NYTIMES. Updated. Published."
+                            },
+                            {
+                                "title": "Anna May Wong to become first Asian American to appear on US ...",
+                                "timeAgo": "2h ago",
+                                "source": "The Guardian",
+                                "image": {
+                                    "newsUrl": "https://www.theguardian.com/us-news/2022/oct/19/anna-may-wong-first-asian-american-us-quarters",
+                                    "source": "The Guardian",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRf63xoTdjlHDFZRGKvu8tEi-qw1klwyG4OAL0d3fVVx63VCjf_o36zcROX0jIojohjIW9HoFNd"
+                                },
+                                "url": "https://www.theguardian.com/us-news/2022/oct/19/anna-may-wong-first-asian-american-us-quarters",
+                                "snippet": "Wong, trailblazing actor of early 20th century who faced discrimination in Hollywood, to have image shown on new quarters from Monday."
+                            },
+                            {
+                                "title": "Who is Anna May Wong, the first Asian American on U.S. currency?",
+                                "timeAgo": "8h ago",
+                                "source": "The Washington Post",
+                                "image": {
+                                    "newsUrl": "https://www.washingtonpost.com/nation/2022/10/19/anna-may-wong-us-currency-quarter/",
+                                    "source": "The Washington Post",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSRJZi9x1hRDrQyxxMZZ_-9Hboj53fANTZnxVR1pXXN_MVw8aUuf8uIpPjLEMNxfc79nuumethC"
+                                },
+                                "url": "https://www.washingtonpost.com/nation/2022/10/19/anna-may-wong-us-currency-quarter/",
+                                "snippet": "A new quarter features Wong, who became Hollywood&#39;s first Chinese American star at a time of widespread anti-Asian xenophobia."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Anna+May+Wong#Anna%20May%20Wong"
+                    },
+                    {
+                        "title": {
+                            "query": "The School for Good and Evil",
+                            "exploreLink": "/trends/explore?q=The+School+for+Good+and+Evil&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.rogerebert.com/reviews/the-school-for-good-and-evil-2022",
+                            "source": "Roger Ebert",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQyrBzsOkW9PaF6halLxH6lpJWyhjfDOFMqdfAjJNVA3E4RJjOdKsYYw3DTK9wHuf_0QDj-boNWQ"
+                        },
+                        "articles": [
+                            {
+                                "title": "The School for Good and Evil movie review (2022) | Roger Ebert",
+                                "timeAgo": "2h ago",
+                                "source": "Roger Ebert",
+                                "image": {
+                                    "newsUrl": "https://www.rogerebert.com/reviews/the-school-for-good-and-evil-2022",
+                                    "source": "Roger Ebert",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQyrBzsOkW9PaF6halLxH6lpJWyhjfDOFMqdfAjJNVA3E4RJjOdKsYYw3DTK9wHuf_0QDj-boNWQ"
+                                },
+                                "url": "https://www.rogerebert.com/reviews/the-school-for-good-and-evil-2022",
+                                "snippet": "Empty and endless, and too often leaves you wondering what&#39;s going on and why we should bother."
+                            },
+                            {
+                                "title": "The School for Good and Evil review \u2013 Netflix&#39;s Harry Potter rip-off is ...",
+                                "timeAgo": "2h ago",
+                                "source": "The Guardian",
+                                "image": {
+                                    "newsUrl": "https://www.theguardian.com/film/2022/oct/19/the-school-for-good-and-evil-review-netflix-harry-potter-rip-off",
+                                    "source": "The Guardian",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSe4zsmAuKN4sElDmdTcGKPUh4M_JMRHSGWTjbfCcdZDE12GPgv4LEqSCzyoTVDJvwE57xpXN6_"
+                                },
+                                "url": "https://www.theguardian.com/film/2022/oct/19/the-school-for-good-and-evil-review-netflix-harry-potter-rip-off",
+                                "snippet": "An adaptation of a YA favourite about two opposing fairytale schools is overlong, bland and utterly devoid of magic."
+                            },
+                            {
+                                "title": "&#39;The School for Good and Evil&#39; Review: Ever Afters and Never Afters",
+                                "timeAgo": "1h ago",
+                                "source": "The New York Times",
+                                "image": {
+                                    "newsUrl": "https://www.nytimes.com/2022/10/19/movies/the-school-for-good-and-evil-review.html",
+                                    "source": "The New York Times",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRiCavZnLEd02ybsqa4UoKmuOzGnFNyNoOiUxz7BQ8ivRXUS8TNBOoV3U6lyydYsam08UI45hXS"
+                                },
+                                "url": "https://www.nytimes.com/2022/10/19/movies/the-school-for-good-and-evil-review.html",
+                                "snippet": "Two best friends have princess dreams and witchy nightmares in this adaptation of Soman Chainani&#39;s book series."
+                            },
+                            {
+                                "title": "YA fairy tale The School For Good And Evil refuses to let its star ...",
+                                "timeAgo": "8h ago",
+                                "source": "The A.V. Club",
+                                "image": {
+                                    "newsUrl": "https://www.avclub.com/the-school-for-good-and-evil-movie-review-paul-feig-1849674967",
+                                    "source": "The A.V. Club",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRjcB9SXSImF_0MA60_Z33UBUQuPtfxJBMS1llu0l1aATP-i-T9OGWQ4O_tUh1Hpdk5CI1JslAW"
+                                },
+                                "url": "https://www.avclub.com/the-school-for-good-and-evil-movie-review-paul-feig-1849674967",
+                                "snippet": "Paul Feig&#39;s adaptation of Soman Chainani&#39;s beloved YA novels is another VFX-powered fantasy epic from Netflix."
+                            },
+                            {
+                                "title": "&#39;The School for Good and Evil&#39; Cast and Character Guide",
+                                "timeAgo": "5h ago",
+                                "source": "Collider.com",
+                                "image": {
+                                    "newsUrl": "https://collider.com/the-school-for-good-and-evil-cast-and-character-guide/",
+                                    "source": "Collider.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyYBOTWbCn2lIrT7MTFmHZX5jamNFDiWjfjEgRXNYJgGIJryi47e_bRYj8hCrnxtxdxGC04Z62"
+                                },
+                                "url": "https://collider.com/the-school-for-good-and-evil-cast-and-character-guide/",
+                                "snippet": "Find out which actors were cast as heroes or villains in the dramatic and dreamy book adaption. school-for-good-and-evil-poster-cropped&nbsp;..."
+                            },
+                            {
+                                "title": "Netflix&#39;s &#39;The School for Good and Evil&#39; rules but needs way more ...",
+                                "timeAgo": "7h ago",
+                                "source": "Mashable",
+                                "image": {
+                                    "newsUrl": "https://mashable.com/article/netflix-school-for-good-and-evil-rachel-bloom",
+                                    "source": "Mashable",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1y9Ylui0kYUV3e9DyYdS9ZDqXlYL9aAmQfi-Jl14-KsVPVjG0xVzOTHaSmltG5E3OoU1DYHsz"
+                                },
+                                "url": "https://mashable.com/article/netflix-school-for-good-and-evil-rachel-bloom",
+                                "snippet": "Two girls walk down a street of a village in fantasy movie clothing. We love Sophie and Agatha but also... Honora! Credit: Netflix&nbsp;..."
+                            },
+                            {
+                                "title": "&#39;The School for Good and Evil&#39; Review: Derivative Magic Teen ...",
+                                "timeAgo": "9h ago",
+                                "source": "Variety",
+                                "image": {
+                                    "newsUrl": "https://variety.com/2022/film/reviews/the-school-for-good-and-evil-review-1235407982/",
+                                    "source": "Variety",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR1QbPy98RN5mRsVodr5ROyP9zJqFYUOhauWwgd_YYrXYBfvZH1PWJAD9vqutXm3PB1Xv9s48bT"
+                                },
+                                "url": "https://variety.com/2022/film/reviews/the-school-for-good-and-evil-review-1235407982/",
+                                "snippet": "The whole idea derives from a book series by Soman Chainani, though it&#39;s obvious where it really comes from: the imagination of J.K. Rowling, who must be&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=The+School+for+Good+and+Evil#The%20School%20for%20Good%20and%20Evil"
+                    },
+                    {
+                        "title": {
+                            "query": "Black Adam': Review",
+                            "exploreLink": "/trends/explore?q=Black+Adam':+Review&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.forbes.com/sites/scottmendelson/2022/10/18/black-adam-review-dwayne-johnson-continues-dc-films-post-justice-league-winning-streak/",
+                            "source": "Forbes",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQM4YQL2T0nwqFoawxclDFmZypDu1rkcC7Sjp3bsZOjtHyeKH3cN9bSeBgx4b7sS5sFA8xUufBP"
+                        },
+                        "articles": [
+                            {
+                                "title": "Review: &#39;Black Adam&#39; Continues DC Films&#39; Post-&#39;Justice League ...",
+                                "timeAgo": "18h ago",
+                                "source": "Forbes",
+                                "image": {
+                                    "newsUrl": "https://www.forbes.com/sites/scottmendelson/2022/10/18/black-adam-review-dwayne-johnson-continues-dc-films-post-justice-league-winning-streak/",
+                                    "source": "Forbes",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQM4YQL2T0nwqFoawxclDFmZypDu1rkcC7Sjp3bsZOjtHyeKH3cN9bSeBgx4b7sS5sFA8xUufBP"
+                                },
+                                "url": "https://www.forbes.com/sites/scottmendelson/2022/10/18/black-adam-review-dwayne-johnson-continues-dc-films-post-justice-league-winning-streak/",
+                                "snippet": "Warner Bros. Black Adam is, above all, a rollicking good time at the movies. It is a showcase for Dwayne \u201cThe Rock\u201d Johnson playing to type as an invincible&nbsp;..."
+                            },
+                            {
+                                "title": "&#39;Black Adam&#39;: Review",
+                                "timeAgo": "18h ago",
+                                "source": "Screen International",
+                                "image": {
+                                    "newsUrl": "https://www.screendaily.com/reviews/black-adam-review/5175474.article",
+                                    "source": "Screen International",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQXB9q0nc3F_HpM4mAafvL1XNgiUVOsTOwj_f5YBF07z75aXpqZwNGpXq0dDKnWTYYm_A4ot1AL"
+                                },
+                                "url": "https://www.screendaily.com/reviews/black-adam-review/5175474.article",
+                                "snippet": "Dwayne Johnson is a conflicted superhero in the latest adventure from the DC Extended Universe."
+                            },
+                            {
+                                "title": "Review: &#39;Black Adam,&#39; a superhero franchise born on a Rock",
+                                "timeAgo": "12h ago",
+                                "source": "Associated Press",
+                                "image": {
+                                    "newsUrl": "https://apnews.com/article/black-adam-film-reviews-entertainment-01c2dc49c9350408fab39c7e6d3ef264",
+                                    "source": "Associated Press",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTT2X8mFiGlYHpbn-Vgr0hfZ3TfKTjZSY4sw9hKJpEUmPSuiwK0VhN1wCoNTuViCLjRJ-mqZCFX"
+                                },
+                                "url": "https://apnews.com/article/black-adam-film-reviews-entertainment-01c2dc49c9350408fab39c7e6d3ef264",
+                                "snippet": "Not long into \u201cBlack Adam,\u201d a preteen boy looks up at the muscled hulk of Dwayne Johnson and begs for his help: \u201cWe could use a superhero right now."
+                            },
+                            {
+                                "title": "&#39;Black Adam&#39; review: Fun, despite a charisma-free Dwayne Johnson",
+                                "timeAgo": "17h ago",
+                                "source": "Los Angeles Times",
+                                "image": {
+                                    "newsUrl": "https://www.latimes.com/entertainment-arts/movies/story/2022-10-18/review-black-adam-dwayne-johnson-dc-extended-universe",
+                                    "source": "Los Angeles Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPHT94GsC1LYhyjoLFFTL_k-8FFpwyeJfaL_lK4Z4XR5gd8hJgqxF5BeQlWSl2cCnNGjxIRz-d"
+                                },
+                                "url": "https://www.latimes.com/entertainment-arts/movies/story/2022-10-18/review-black-adam-dwayne-johnson-dc-extended-universe",
+                                "snippet": "There&#39;s a void at the center of &#39;Black Adam&#39; \u2014 a charisma-free Dwayne Johnson \u2014 but director Jaume Collet-Serra manages to give the film a sense of style."
+                            },
+                            {
+                                "title": "MOVIE REVIEW: Black Adam is exactly the film DC, Warner Bros ...",
+                                "timeAgo": "1h ago",
+                                "source": "Crow River Media",
+                                "url": "https://www.crowrivermedia.com/national/entertainment/movie-review-black-adam-is-exactly-the-film-dc-warner-bros-needs-right-now/article_1b40c3b7-5147-5b45-a231-ba7fdf2cc0be.html",
+                                "snippet": "While &quot;Black Adam,&quot; which opens in theaters on Friday, may not be a perfect film, it may actually be the perfect anecdote for some of the issues that have&nbsp;..."
+                            },
+                            {
+                                "title": "Black Adam Review",
+                                "timeAgo": "13h ago",
+                                "source": "IGN Southeast Asia",
+                                "image": {
+                                    "newsUrl": "https://sea.ign.com/black-adam-1/191572/review/black-adam-review",
+                                    "source": "IGN Southeast Asia",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSSzTUT7eZbMJVCumHojw3HvMvgApC1cHvI_Q0lZ_64G1D7pVkAtOph8lX5tNP9L1D-Yc4qIfLR"
+                                },
+                                "url": "https://sea.ign.com/black-adam-1/191572/review/black-adam-review",
+                                "snippet": "The whole movie feels like it was made a few decades ago, before the golden age of superhero movies, and carries none of the wisdom Hollywood has learned from&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Black+Adam':+Review#Black%20Adam':%20Review"
+                    },
+                    {
+                        "title": {
+                            "query": "Celtics vs 76ers",
+                            "exploreLink": "/trends/explore?q=Celtics+vs+76ers&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.cbssports.com/nba/news/celtics-vs-76ers-score-takeaways-boston-takes-down-philadelphia-in-nbas-regular-season-opener/live/",
+                            "source": "CBSSports.com",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTOvUwXnqsp9x7wpNUUl7Lxi0GJ4T3S677w-7N8NPX6e7aYC7tOfwmiAGtf7vsAQc4-OdMK_lR"
+                        },
+                        "articles": [
+                            {
+                                "title": "Celtics vs. 76ers score, takeaways: Boston takes down Philadelphia ...",
+                                "timeAgo": "13h ago",
+                                "source": "CBSSports.com",
+                                "image": {
+                                    "newsUrl": "https://www.cbssports.com/nba/news/celtics-vs-76ers-score-takeaways-boston-takes-down-philadelphia-in-nbas-regular-season-opener/live/",
+                                    "source": "CBSSports.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTTOvUwXnqsp9x7wpNUUl7Lxi0GJ4T3S677w-7N8NPX6e7aYC7tOfwmiAGtf7vsAQc4-OdMK_lR"
+                                },
+                                "url": "https://www.cbssports.com/nba/news/celtics-vs-76ers-score-takeaways-boston-takes-down-philadelphia-in-nbas-regular-season-opener/live/",
+                                "snippet": "For Boston, it was the usual suspects who led the way. Jayson Tatum and Jaylen Brown both had 35 points in the contest, and Tatum also added 12 rebounds and&nbsp;..."
+                            },
+                            {
+                                "title": "76ers vs. Celtics: Highlights From NBA Season Opener",
+                                "timeAgo": "13h ago",
+                                "source": "Sports Illustrated",
+                                "image": {
+                                    "newsUrl": "https://www.si.com/nba/76ers/news/76ers-vs-celtics-highlights-from-nba-season-opener",
+                                    "source": "Sports Illustrated",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRxiHJMU8AUY4MmkTk6z8Vkyb12mAyUzdIXCcriT7Zbb-2sgtPcZ01FukIvr4yL3me2jAVzg7Pz"
+                                },
+                                "url": "https://www.si.com/nba/76ers/news/76ers-vs-celtics-highlights-from-nba-season-opener",
+                                "snippet": "The Philadelphia 76ers battled it out against the Boston Celtics on Tuesday night."
+                            },
+                            {
+                                "title": "5 takeaways from the Celtics&#39; season-opening victory over 76ers ...",
+                                "timeAgo": "11h ago",
+                                "source": "NBA.com",
+                                "image": {
+                                    "newsUrl": "https://www.nba.com/news/5-takeaways-celtics-76ers-opening-night",
+                                    "source": "NBA.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS0h_ZEUgqUJUVmnB2N441jxYCSt8lss-9Xj-26fNJnnjEjE5wMsPson3NbYtqRUOR10FOjXlbN"
+                                },
+                                "url": "https://www.nba.com/news/5-takeaways-celtics-76ers-opening-night",
+                                "snippet": "Jayson Tatum has confidence-booster game, James Harden shows lethal touch and 76ers&#39; new faces have rough debuts."
+                            },
+                            {
+                                "title": "Celtics vs. 76ers prediction: Can Sixers pull off upset on Opening ...",
+                                "timeAgo": "22h ago",
+                                "source": "The Philadelphia Inquirer",
+                                "image": {
+                                    "newsUrl": "https://www.inquirer.com/sports/betting/nba/celtics-76ers-prediction-10-18-2022-20221018.html",
+                                    "source": "The Philadelphia Inquirer",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLHQPXsHxkt7U_LHjEBVJhpSLFNfzE9YcnROXw6UpXLRHEEBkkDds_PXqpV4FjC0wZP3OHcffG"
+                                },
+                                "url": "https://www.inquirer.com/sports/betting/nba/celtics-76ers-prediction-10-18-2022-20221018.html",
+                                "snippet": "Philadelphia opens the 2022-23 NBA season against the reigning Eastern Conference champion Boston, which is facing plenty of questions ahead of Tuesday&#39;s&nbsp;..."
+                            },
+                            {
+                                "title": "Philadelphia 76ers at Boston Celtics Game #1 10/18/22",
+                                "timeAgo": "19h ago",
+                                "source": "CelticsBlog",
+                                "image": {
+                                    "newsUrl": "https://www.celticsblog.com/2022/10/18/23410191/philadelphia-76ers-at-boston-celtics-game-1-10-18-22",
+                                    "source": "CelticsBlog",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQvvEVuVilf6XOHsw_ALPpqCxBe4Z0SnLAesLZ_n5Qe8GwfVFPlUsdH6mBxtIwA3tvaNOUPzFhv"
+                                },
+                                "url": "https://www.celticsblog.com/2022/10/18/23410191/philadelphia-76ers-at-boston-celtics-game-1-10-18-22",
+                                "snippet": "Robert Williams III will miss this game as he recovers from an off season procedure to clean out the knee that he had surgery on before the playoffs last season&nbsp;..."
+                            },
+                            {
+                                "title": "Celtics vs. 76ers takeaways: Jayson Tatum, Jaylen Brown lead the ...",
+                                "timeAgo": "13h ago",
+                                "source": "NBC Sports Boston",
+                                "image": {
+                                    "newsUrl": "https://www.nbcsports.com/boston/celtics/celtics-vs-76ers-takeaways-jayson-tatum-jaylen-brown-lead-way-opener",
+                                    "source": "NBC Sports Boston",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcREZKPiFLRbV8kCy56nbFGQu1EntTHSpuJ4q19azL_cuvtv6MywlXo3EOaxXxhv6ZBpPUttVGza"
+                                },
+                                "url": "https://www.nbcsports.com/boston/celtics/celtics-vs-76ers-takeaways-jayson-tatum-jaylen-brown-lead-way-opener",
+                                "snippet": "The Celtics looked like a team with a purpose in Tuesday night&#39;s season-opening win against the rival Sixers. We share our takeaways from a dominant&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Celtics+vs+76ers#Celtics%20vs%2076ers"
+                    },
+                    {
+                        "title": {
+                            "query": "Felicia Chin",
+                            "exploreLink": "/trends/explore?q=Felicia+Chin&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.straitstimes.com/life/entertainment/felicia-chin-and-jeffrey-xu-share-pre-wedding-photo-ahead-of-big-day-on-saturday",
+                            "source": "The Straits Times",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ-MBOk89kpqyD3lNGrNX428hs33n3CV9J8fOZlmKg2rsaUCTVjIWS4vplQxDPGx1EE6JKspDoj"
+                        },
+                        "articles": [
+                            {
+                                "title": "Felicia Chin and Jeffrey Xu share pre-wedding photo ahead of big ...",
+                                "timeAgo": "1d ago",
+                                "source": "The Straits Times",
+                                "image": {
+                                    "newsUrl": "https://www.straitstimes.com/life/entertainment/felicia-chin-and-jeffrey-xu-share-pre-wedding-photo-ahead-of-big-day-on-saturday",
+                                    "source": "The Straits Times",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ-MBOk89kpqyD3lNGrNX428hs33n3CV9J8fOZlmKg2rsaUCTVjIWS4vplQxDPGx1EE6JKspDoj"
+                                },
+                                "url": "https://www.straitstimes.com/life/entertainment/felicia-chin-and-jeffrey-xu-share-pre-wedding-photo-ahead-of-big-day-on-saturday",
+                                "snippet": "The celebrity couple will hold a simple church wedding and have promised more photos to come. Read more at straitstimes.com."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Felicia+Chin#Felicia%20Chin"
+                    },
+                    {
+                        "title": {
+                            "query": "LeBron James",
+                            "exploreLink": "/trends/explore?q=LeBron+James&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://andscape.com/features/lebron-james-redefined-player-empowerment-but-not-the-way-you-think/",
+                            "source": "Andscape",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTL2UXkshV2UbfDHbQs0hrw7SPerzSWMJmbT9X5uEzntVtmgpaMFtj9FD5g-16A44HK7Qb7Wyw2"
+                        },
+                        "articles": [
+                            {
+                                "title": "LeBron James redefined player empowerment \u2013 but not the way you ...",
+                                "timeAgo": "1d ago",
+                                "source": "Andscape",
+                                "image": {
+                                    "newsUrl": "https://andscape.com/features/lebron-james-redefined-player-empowerment-but-not-the-way-you-think/",
+                                    "source": "Andscape",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTL2UXkshV2UbfDHbQs0hrw7SPerzSWMJmbT9X5uEzntVtmgpaMFtj9FD5g-16A44HK7Qb7Wyw2"
+                                },
+                                "url": "https://andscape.com/features/lebron-james-redefined-player-empowerment-but-not-the-way-you-think/",
+                                "snippet": "When we speak of &quot;player empowerment&quot; \u2014 and not the way we&#39;ve been conditioned to \u2014 @KingJames didn&#39;t singlehandedly redirect that convo."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=LeBron+James#LeBron%20James"
+                    },
+                    {
+                        "title": {
+                            "query": "Aptos",
+                            "exploreLink": "/trends/explore?q=Aptos&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://decrypt.co/112347/solana-killer-aptos-launch-hits-snags",
+                            "source": "Decrypt",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqxfiUUlyCfanL7KiPZ-Rfur3R8wu3fcAlN34fPOinG8sQrHmGeuReD5J2CqNvTFil6VFRTRWD"
+                        },
+                        "articles": [
+                            {
+                                "title": "Aptos Blockchain Launches to Concerns Over Tokenomics",
+                                "timeAgo": "15h ago",
+                                "source": "Decrypt",
+                                "image": {
+                                    "newsUrl": "https://decrypt.co/112347/solana-killer-aptos-launch-hits-snags",
+                                    "source": "Decrypt",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSqxfiUUlyCfanL7KiPZ-Rfur3R8wu3fcAlN34fPOinG8sQrHmGeuReD5J2CqNvTFil6VFRTRWD"
+                                },
+                                "url": "https://decrypt.co/112347/solana-killer-aptos-launch-hits-snags",
+                                "snippet": "Aptos co-founder Mo Shaikh acknowledged the less-than-stellar launch of the Aptos blockchain, answering questions about its token."
+                            },
+                            {
+                                "title": "Aptos Token Plunges in Trading Debut",
+                                "timeAgo": "14h ago",
+                                "source": "Coindesk",
+                                "image": {
+                                    "newsUrl": "https://www.coindesk.com/business/2022/10/19/aptos-token-opens-for-trading-after-blockchains-rocky-debut/",
+                                    "source": "Coindesk",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNAIwJ4jGEVEGKy7Iy8hAr7oHMsV97epbtMqiOhcmQbOMknaO9RmxP-jTgGpNha7kN5ZTX8l-O"
+                                },
+                                "url": "https://www.coindesk.com/business/2022/10/19/aptos-token-opens-for-trading-after-blockchains-rocky-debut/",
+                                "snippet": "FTX, Coinbase and Binance were among the first exchanges to list the buzzy new layer 1 token."
+                            },
+                            {
+                                "title": "Aptos Airdrops Tokens to Thousands in Trading Launch",
+                                "timeAgo": "6h ago",
+                                "source": "Crypto Briefing",
+                                "image": {
+                                    "newsUrl": "https://cryptobriefing.com/aptos-airdrops-tokens-to-thousands-in-trading-launch/",
+                                    "source": "Crypto Briefing",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQCfYD3QVQGUGcCNh4246TvS_sPOSz5brHbEuUqgIrfD8eUmLmKZRO0rqKkro2RjJ0FD7T9Qy0"
+                                },
+                                "url": "https://cryptobriefing.com/aptos-airdrops-tokens-to-thousands-in-trading-launch/",
+                                "snippet": "Aptos, the Move-based Layer 1 blockchain, has allocated over 20 million APT tokens for distribution to 110235 early users."
+                            },
+                            {
+                                "title": "Aptos Mainnet Launch Draws Criticism",
+                                "timeAgo": "18h ago",
+                                "source": "Blockworks",
+                                "image": {
+                                    "newsUrl": "https://blockworks.co/aptos-mainnet-launch-draws-criticism/",
+                                    "source": "Blockworks",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTOUqHlWW2KMsLyLwIVPlOVN3G1b283y43nO0fyn3PbK4IJ5rrnBXOaW1xeeFZWmsFHvavE7XlZ"
+                                },
+                                "url": "https://blockworks.co/aptos-mainnet-launch-draws-criticism/",
+                                "snippet": "Aptos, a blockchain startup founded by ex-Meta employees, launched its mainnet yesterday, but it has been falling short of expectations, according to some&nbsp;..."
+                            },
+                            {
+                                "title": "OKLink has launched Aptos Blockchain explorer, the 20th Chain ...",
+                                "timeAgo": "3h ago",
+                                "source": "GlobeNewswire",
+                                "url": "https://www.globenewswire.com/news-release/2022/10/19/2537380/0/en/OKLink-has-launched-Aptos-Blockchain-explorer-the-20th-Chain-Supported-by-OKLink-Blockchain-Explorer.html",
+                                "snippet": "Beijing, China, Oct. 19, 2022 (GLOBE NEWSWIRE) -- The OKLink, OKG&#39;s blockchain explorer, has supported twenty chains after they launched Aptos blockchain..."
+                            },
+                            {
+                                "title": "Aptos rollout faulted for slow processing speeds; native token plunges",
+                                "timeAgo": "6h ago",
+                                "source": "Forkast News",
+                                "image": {
+                                    "newsUrl": "https://forkast.news/aptos-rollout-slow-processing-speeds-token-plunges/",
+                                    "source": "Forkast News",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcT8kFq_xw8f5g_xgF6Ak9cFs7zMUw6UuXKiLXoVtYO_Ofec2mx8O3vNRBoe-7P-mGKoiwYqcHC_"
+                                },
+                                "url": "https://forkast.news/aptos-rollout-slow-processing-speeds-token-plunges/",
+                                "snippet": "The blockchain network was built by former members of the Meta stablecoin project, with well-known investors and considerable buzz as the new &#39;Solana killer&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Aptos#Aptos"
+                    },
+                    {
+                        "title": {
+                            "query": "Patek Philippe",
+                            "exploreLink": "/trends/explore?q=Patek+Philippe&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://cnaluxury.channelnewsasia.com/obsessions/patek-philippe-new-nautilus-5811-211606",
+                            "source": "CNA Luxury",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkvjav3psonD5omH5r-ei8aamWI-5teotE7fK-azSwOYrfV9EURWSqni8QzaBI6cyRZ3nw2pJN"
+                        },
+                        "articles": [
+                            {
+                                "title": "Patek Philippe unveils a white gold successor to the legendary ...",
+                                "timeAgo": "8h ago",
+                                "source": "CNA Luxury",
+                                "image": {
+                                    "newsUrl": "https://cnaluxury.channelnewsasia.com/obsessions/patek-philippe-new-nautilus-5811-211606",
+                                    "source": "CNA Luxury",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRkvjav3psonD5omH5r-ei8aamWI-5teotE7fK-azSwOYrfV9EURWSqni8QzaBI6cyRZ3nw2pJN"
+                                },
+                                "url": "https://cnaluxury.channelnewsasia.com/obsessions/patek-philippe-new-nautilus-5811-211606",
+                                "snippet": "The new Nautilus 5811 joins a lineup of seven other new references from the Swiss watchmaker."
+                            },
+                            {
+                                "title": "Patek Philippe&#39;s new Nautilus watch finally surfaces",
+                                "timeAgo": "1d ago",
+                                "source": "Financial Times",
+                                "image": {
+                                    "newsUrl": "https://www.ft.com/content/d6268e9f-b5b0-45e3-acd1-2cae40144799",
+                                    "source": "Financial Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRQUtYI2iZVJKZI65Er-i_YKFXZ1eCZlcEePJoxuPMgpPNTE1q_VrXQmZSVPkquF0WfMnIzYcEE"
+                                },
+                                "url": "https://www.ft.com/content/d6268e9f-b5b0-45e3-acd1-2cae40144799",
+                                "snippet": "The wait is over. White smoke has issued from the chimney. At last, there is a successor to Patek Philippe&#39;s fabled Ref 5711 Nautilus, the watch that more&nbsp;..."
+                            },
+                            {
+                                "title": "Introducing: Watch Out, &#39;Rainbow&#39; Daytona \u2013 Patek Philippe Drops A ...",
+                                "timeAgo": "1d ago",
+                                "source": "HODINKEE",
+                                "image": {
+                                    "newsUrl": "https://www.hodinkee.com/articles/the-patek-philippe-aquanaut-luce-rainbow-chronograph",
+                                    "source": "HODINKEE",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcROlqtZjGS5sw6vuxlEjRmOvIfcRcaOeaJ95XuhgV7srHARzi0uJBDeAnMDO1vK5qCGv_lRtpm_"
+                                },
+                                "url": "https://www.hodinkee.com/articles/the-patek-philippe-aquanaut-luce-rainbow-chronograph",
+                                "snippet": "It&#39;s International Patek Philippe day! &middot; Like, for instance, this gem of a chronograph. &middot; I present to you the Aquanaut Luce &quot;Rainbow&quot; chronograph Ref. 7968/300R-&nbsp;..."
+                            },
+                            {
+                                "title": "Three New Patek Philippe Heavy-Hitters You Should Know About",
+                                "timeAgo": "2h ago",
+                                "source": "HYPEBEAST",
+                                "image": {
+                                    "newsUrl": "https://hypebeast.com/2022/10/three-patek-philippe-haute-horlogerie-joaillerie-5373p-5935a-7968300r-info",
+                                    "source": "HYPEBEAST",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhrBVcX77cND-HAHGFPbpxtga65ZzJnbeJMN6d7snrS_DxbrumW090XFxrc0FXiZ2Ld4zLJNhD"
+                                },
+                                "url": "https://hypebeast.com/2022/10/three-patek-philippe-haute-horlogerie-joaillerie-5373p-5935a-7968300r-info",
+                                "snippet": "Three other new pieces \u2013 from haute horlogerie to haute joaillerie \u2013 demand your attention as well. 5373P. Including A Split Second Chronograph Perpetual&nbsp;..."
+                            },
+                            {
+                                "title": "New Patek Philippe Nautilus Models Released in Much-Coveted ...",
+                                "timeAgo": "1d ago",
+                                "source": "Bloomberg",
+                                "image": {
+                                    "newsUrl": "https://www.bloomberg.com/news/articles/2022-10-18/new-patek-philippe-nautilus-watches-see-brand-s-updates-on-hottest-model",
+                                    "source": "Bloomberg",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTujbuZ5iRUzuYOc_1WymRJhgMZaNjBTtNc1aGbavjLGZDn0cpX-0-UN2vLzt7lqwGcwmnQEuzi"
+                                },
+                                "url": "https://www.bloomberg.com/news/articles/2022-10-18/new-patek-philippe-nautilus-watches-see-brand-s-updates-on-hottest-model",
+                                "snippet": "The beloved Ref. 5711A isn&#39;t coming back, but among the many new watches announced today, there are three variations on the Nautilus theme."
+                            },
+                            {
+                                "title": "Introducing: A Steel Nautilus With A Blue Dial! The Travel Time ...",
+                                "timeAgo": "1d ago",
+                                "source": "HODINKEE",
+                                "image": {
+                                    "newsUrl": "https://www.hodinkee.com/articles/a-steel-nautilus-with-a-blue-dial-the-travel-time-chronograph-59901a-returns-plus-the-other-patek-ne",
+                                    "source": "HODINKEE",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQCnJmzuhLpuB87kWc6hP6jpUVefOOwHicwquMZwdHs2NqTlYaGSCxvTVA-s1jzi32tU4hUu38"
+                                },
+                                "url": "https://www.hodinkee.com/articles/a-steel-nautilus-with-a-blue-dial-the-travel-time-chronograph-59901a-returns-plus-the-other-patek-ne",
+                                "snippet": "Introducing A Steel Nautilus With A Blue Dial! The Travel Time Chronograph 5990/1A Returns, Plus The Other Patek Newness. Including a rose gold 5712 and&nbsp;..."
+                            },
+                            {
+                                "title": "The Patek Philippe Nautilus is back \u2013 with a white gold and gem-set ...",
+                                "timeAgo": "5h ago",
+                                "source": "British GQ",
+                                "image": {
+                                    "newsUrl": "https://www.gq-magazine.co.uk/watches/article/patek-philippe-nautilus-2022",
+                                    "source": "British GQ",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTqTZS6TlrUbI4o6JwxL8T14jBaexiAo6ok92pwUvf6xkP4H78rn_uT8M8_xYK2N0ySO0NG_eqG"
+                                },
+                                "url": "https://www.gq-magazine.co.uk/watches/article/patek-philippe-nautilus-2022",
+                                "snippet": "Patek Philippe hits us with a complete line up of eight new watches we didn&#39;t know we needed."
+                            },
+                            {
+                                "title": "Patek Philippe&#39;s Nautilus Turns to White Gold",
+                                "timeAgo": "1d ago",
+                                "source": "The New York Times",
+                                "image": {
+                                    "newsUrl": "https://www.nytimes.com/2022/10/18/fashion/watches-patek-philippe-nautilus.html",
+                                    "source": "The New York Times",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQRvA9epvBC-amtzmjdHrzHSNXyGAc-WAPpAjBnEgPHxXtbv7n_PQoE6zb8vXvyenBWObm-gzQv"
+                                },
+                                "url": "https://www.nytimes.com/2022/10/18/fashion/watches-patek-philippe-nautilus.html",
+                                "snippet": "The Nautilus Ref. 5811 boasts an 18-karat white gold case and bracelet. The change of metal upended nearly 50 years of watchmaking tradition at Patek Philippe,&nbsp;..."
+                            },
+                            {
+                                "title": "Patek Philippe Unveils Aquanaut Luce \u201cRainbow\u201d Chronograph ...",
+                                "timeAgo": "4h ago",
+                                "source": "aBlogtoWatch",
+                                "image": {
+                                    "newsUrl": "https://www.ablogtowatch.com/patek-philippe-unveils-aquanaut-luce-rainbow-chronograph-watch/",
+                                    "source": "aBlogtoWatch",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQmkfvky91f7sSHvq6Zw_96EaUhC6F746amuF0bSQ29o5_6mjeDgjjTi0KFGdzT3zP33UeA-mf1"
+                                },
+                                "url": "https://www.ablogtowatch.com/patek-philippe-unveils-aquanaut-luce-rainbow-chronograph-watch/",
+                                "snippet": "Surprisingly, what may potentially be the most striking release of the group is ostensibly a women&#39;s watch, delivering the first-ever Patek Philippe automatic&nbsp;..."
+                            },
+                            {
+                                "title": "This Ultra-Rare Patek Philippe Has Hour Indicators in Heiroglyphics",
+                                "timeAgo": "1h ago",
+                                "source": "Robb Report",
+                                "image": {
+                                    "newsUrl": "https://robbreport.com/style/watch-collector/patek-philippe-egyptian-heiroglyphics-calatrava-watch-phillips-1234760405/",
+                                    "source": "Robb Report",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQOmbrGTeRQCWnA7I_eVR9sD_PcXP2yhCc7dpLpZ6LK8mjVYAmm6gW7Dlkn7T4jyRUGYCYIBm0p"
+                                },
+                                "url": "https://robbreport.com/style/watch-collector/patek-philippe-egyptian-heiroglyphics-calatrava-watch-phillips-1234760405/",
+                                "snippet": "Phillips upcoming New York watch auction has plenty of unusual pieces on offer including a Patek Philippe with Egyptian hieroglyphics for hour markers and a&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Patek+Philippe#Patek%20Philippe"
+                    },
+                    {
+                        "title": {
+                            "query": "Marvel Snap",
+                            "exploreLink": "/trends/explore?q=Marvel+Snap&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.androidpolice.com/marvel-snap-hands-on/",
+                            "source": "Android Police",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcToGNMO02VVTXHLRSqIzsS-5sFmu87FMG0__iGanpK6UKkPfJ2JSYmjky5ojbCaYPNHgGUvnmJL"
+                        },
+                        "articles": [
+                            {
+                                "title": "Marvel Snap hands-on: Accessible collectible card fun, minus the bloat",
+                                "timeAgo": "7h ago",
+                                "source": "Android Police",
+                                "image": {
+                                    "newsUrl": "https://www.androidpolice.com/marvel-snap-hands-on/",
+                                    "source": "Android Police",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcToGNMO02VVTXHLRSqIzsS-5sFmu87FMG0__iGanpK6UKkPfJ2JSYmjky5ojbCaYPNHgGUvnmJL"
+                                },
+                                "url": "https://www.androidpolice.com/marvel-snap-hands-on/",
+                                "snippet": "Readers like you help support Android Police. When you make a purchase using links on our site, we may earn an affiliate commission. Marvel Snap hands-on:&nbsp;..."
+                            },
+                            {
+                                "title": "Marvel Snap now available for down on iOS, Android and PC",
+                                "timeAgo": "4h ago",
+                                "source": "The Indian Express",
+                                "image": {
+                                    "newsUrl": "https://indianexpress.com/article/technology/gaming/marvel-snap-now-available-for-down-on-ios-android-and-pc-8218371/",
+                                    "source": "The Indian Express",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSvwESoAJfNzZZo3NAhwvqQ5qXQQ6wlhOMjeFud_aVu6_iy8sW537oAmASzJ0iTGvmQn5nI4Ikn"
+                                },
+                                "url": "https://indianexpress.com/article/technology/gaming/marvel-snap-now-available-for-down-on-ios-android-and-pc-8218371/",
+                                "snippet": "In a blog post, Marvel today announced the launch of Marvel Snap \u2013 a superpower card battle game available on both PC and mobile devices."
+                            },
+                            {
+                                "title": "&#39;Marvel Snap&#39; Beginner&#39;s Guide: 4 Tips For The Latest Mobile Card ...",
+                                "timeAgo": "12h ago",
+                                "source": "Geek Culture",
+                                "image": {
+                                    "newsUrl": "https://geekculture.co/marvel-snap-beginners-guide-quick-tips/",
+                                    "source": "Geek Culture",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTAppAGIiQcLDK1nFWW4hHlCYFvcmXu4raBpz2EW4MaivgMOnUB0UsG2sGds6r3iPB8CpXgRe5w"
+                                },
+                                "url": "https://geekculture.co/marvel-snap-beginners-guide-quick-tips/",
+                                "snippet": "The season pass tree unlocks cards which can be achieved by completing daily missions. These usually fall in the realm of \u201cPlay X cards with X cost\u201d or \u201cWin X&nbsp;..."
+                            },
+                            {
+                                "title": "MARVEL SNAP Launches Globally on Mobile and PC",
+                                "timeAgo": "20h ago",
+                                "source": "Marvel Entertainment",
+                                "image": {
+                                    "newsUrl": "https://www.marvel.com/articles/games/marvel-snap-launches-globally-on-mobile-and-pc",
+                                    "source": "Marvel Entertainment",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSJK3SGLlY0NVvz68D1GAgUD6l7-df88XHqHPi2JeDRX5_-TXiBy1JME9wIS0gtr-Q0CJ1e-VS4"
+                                },
+                                "url": "https://www.marvel.com/articles/games/marvel-snap-launches-globally-on-mobile-and-pc",
+                                "snippet": "Samuel L. Jackson stars as Nick Fury in a hilarious new launch campaign for Marvel&#39;s highly anticipated card battler. Now available for free on iOS and&nbsp;..."
+                            },
+                            {
+                                "title": "Marvel Snap Season Pass: Everything up for grabs in Symbiote ...",
+                                "timeAgo": "5h ago",
+                                "source": "For The Win",
+                                "image": {
+                                    "newsUrl": "https://ftw.usatoday.com/lists/marvel-snap-season-pass-symbiote-invasion",
+                                    "source": "For The Win",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcToJhKF0ycbGO0-5cPGR9yMB8XQCopHSkBhvR35YPAtLCC9F86bjiulCu1jxvMxT2QgQOPwdF6k"
+                                },
+                                "url": "https://ftw.usatoday.com/lists/marvel-snap-season-pass-symbiote-invasion",
+                                "snippet": "The first Season Pass since the game&#39;s official launch, the Symbiote Invasion brings a lot of cool new card art to Marvel Snap."
+                            },
+                            {
+                                "title": "Superhero card battler Marvel Snap enters early access on PC today",
+                                "timeAgo": "1d ago",
+                                "source": "Rock Paper Shotgun",
+                                "image": {
+                                    "newsUrl": "https://www.rockpapershotgun.com/superhero-card-battler-marvel-snap-enters-early-access-on-pc-today",
+                                    "source": "Rock Paper Shotgun",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTeak1DRpOWWQHpymGW_9yIUcsVCtBnv_B7OSqRbP6sAtt5tGhXcGITj8xQbK6MnNs8p6O2-7tF"
+                                },
+                                "url": "https://www.rockpapershotgun.com/superhero-card-battler-marvel-snap-enters-early-access-on-pc-today",
+                                "snippet": "Collectible card game Marvel Snap has been released into early access on Steam as a free to play download."
+                            },
+                            {
+                                "title": "Marvel Snap best cards for beginners and how to unlock new cards",
+                                "timeAgo": "1d ago",
+                                "source": "Eurogamer.net",
+                                "image": {
+                                    "newsUrl": "https://www.eurogamer.net/marvel-snap-best-cards-for-beginners-how-unlock-new-9055",
+                                    "source": "Eurogamer.net",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTXLqUzSaXHJz_DzzOmRFhovMCArfMbiKnYOjIWGSo_NsFAzsLwidSjbVEP-w8Sv4G2BOLcar92"
+                                },
+                                "url": "https://www.eurogamer.net/marvel-snap-best-cards-for-beginners-how-unlock-new-9055",
+                                "snippet": "Cards in Marvel Snap don&#39;t work like most virtual card games you may be familiar with. Whether it&#39;s Magic: The Gathering Arena, Yu-Gi-Oh! Master Duel,&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Marvel+Snap#Marvel%20Snap"
+                    },
+                    {
+                        "title": {
+                            "query": "Brentford vs Chelsea",
+                            "exploreLink": "/trends/explore?q=Brentford+vs+Chelsea&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.football.london/chelsea-fc/news/brentford-vs-chelsea-prediction-odds-25294520",
+                            "source": "Football.London",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWN5d-_V7WyWeH7VK_sHNekebjt5bzVaI1JMmHYQS6ketS_baevCYBM4oFgXj6WWcVP9M1gKtP"
+                        },
+                        "articles": [
+                            {
+                                "title": "Brentford vs Chelsea betting preview",
+                                "timeAgo": "5h ago",
+                                "source": "Football.London",
+                                "image": {
+                                    "newsUrl": "https://www.football.london/chelsea-fc/news/brentford-vs-chelsea-prediction-odds-25294520",
+                                    "source": "Football.London",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTWN5d-_V7WyWeH7VK_sHNekebjt5bzVaI1JMmHYQS6ketS_baevCYBM4oFgXj6WWcVP9M1gKtP"
+                                },
+                                "url": "https://www.football.london/chelsea-fc/news/brentford-vs-chelsea-prediction-odds-25294520",
+                                "snippet": "The Inside Track brings you the best in betting previews as Chelsea make the short trip to the Brentford Community Stadium to face Thomas Frank&#39;s side in&nbsp;..."
+                            },
+                            {
+                                "title": "Brentford vs Chelsea LIVE: Graham Potter can join Blues icon Jose ...",
+                                "timeAgo": "5h ago",
+                                "source": "talkSPORT.com",
+                                "image": {
+                                    "newsUrl": "https://talksport.com/football/1221760/brentford-chelsea-live-stream-kick-off-time-team-news-how-to-follow/",
+                                    "source": "talkSPORT.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8l4HGWlAfBouvwbFVA-NLNHkLTPyk2O4cfxz7ZlxLFEyBgMIWpIPCyIk3yw28OJYz1AgREGK8"
+                                },
+                                "url": "https://talksport.com/football/1221760/brentford-chelsea-live-stream-kick-off-time-team-news-how-to-follow/",
+                                "snippet": "Brentford welcome west London rivals Chelsea to the Gtech Community Stadium in the Premier League this evening. The Blues have hit form under new man."
+                            },
+                            {
+                                "title": "Brentford vs. Chelsea time, TV channel, live stream, lineups, and ...",
+                                "timeAgo": "8h ago",
+                                "source": "Sporting News",
+                                "image": {
+                                    "newsUrl": "https://www.sportingnews.com/us/soccer/news/brentford-vs-chelsea-time-tv-channel-stream-lineups-odds-premier-league/dna1sb9dyspu5wat2skm0xhm",
+                                    "source": "Sporting News",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQeGdpnQgsHSdQV4k-44jLEG8OkBcMch1luavZD_aj75PDf7cJQQUNPB3xbIKeI-HDG0Ar9GS1W"
+                                },
+                                "url": "https://www.sportingnews.com/us/soccer/news/brentford-vs-chelsea-time-tv-channel-stream-lineups-odds-premier-league/dna1sb9dyspu5wat2skm0xhm",
+                                "snippet": "Chelsea visit Brentford for a midweek Premier League tilt, looking to move further up the English top flight table and continue challenging for a Champions&nbsp;..."
+                            },
+                            {
+                                "title": "Brentford vs Chelsea: Facts at your fingertips",
+                                "timeAgo": "6h ago",
+                                "source": "Chelsea FC",
+                                "image": {
+                                    "newsUrl": "https://www.chelseafc.com/en/news/article/brentford-vs-chelsea-facts-at-your-fingertips",
+                                    "source": "Chelsea FC",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcS0hQGwoTNf33vVMj-FCkZYq5G5RQaLMJEF8G1ak4hZz_12444Z-i4ue6OEES3eRJCVkrcGvJ1A"
+                                },
+                                "url": "https://www.chelseafc.com/en/news/article/brentford-vs-chelsea-facts-at-your-fingertips",
+                                "snippet": "Chelsea have a second Premier League away trip in the space of four days, making the short journey across west London to face Brentford."
+                            },
+                            {
+                                "title": "How to watch Brentford vs. Chelsea: TV channel, Premier League ...",
+                                "timeAgo": "1h ago",
+                                "source": "CBSSports.com",
+                                "url": "https://www.cbssports.com/soccer/news/how-to-watch-brentford-vs-chelsea-tv-channel-premier-league-live-stream-info-start-time-28880438/",
+                                "snippet": "Paramount+ is the only place to watch every minute of every UCL match this season in addition to Serie A, NWSL, Europa League and more. Sign up now with code&nbsp;..."
+                            },
+                            {
+                                "title": "Brentford vs Chelsea live stream: How can I watch Premier League ...",
+                                "timeAgo": "1h ago",
+                                "source": "Evening Standard",
+                                "image": {
+                                    "newsUrl": "https://www.standard.co.uk/sport/football/brentford-vs-chelsea-fc-premier-league-how-can-i-watch-live-tv-coverage-stream-today-b1033635.html",
+                                    "source": "Evening Standard",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpmnnkVaf0AyX1oQNrnXQR0LUV6CAtmnGH113nPbjLPM6V-XLZwlJ4OFy573VOJk_bl1FMJxun"
+                                },
+                                "url": "https://www.standard.co.uk/sport/football/brentford-vs-chelsea-fc-premier-league-how-can-i-watch-live-tv-coverage-stream-today-b1033635.html",
+                                "snippet": "Last season, Thomas Frank&#39;s side made life extremely difficult for then-European champions Chelsea and look a good bet to do so again. The away side, meanwhile,&nbsp;..."
+                            },
+                            {
+                                "title": "Brentford vs Chelsea, Premier League: When And Where To Watch ...",
+                                "timeAgo": "56m ago",
+                                "source": "NDTVSports.com",
+                                "image": {
+                                    "newsUrl": "https://sports.ndtv.com/english-premier-league/brentford-vs-chelsea-premier-league-when-and-where-to-watch-live-telecast-live-streaming-3446541",
+                                    "source": "NDTVSports.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQoWxnred77nm7hgqKwbXh_OV1ZrQs7Mk9lIHMWzNz8S9UiFTriEO49jaMu4OUPTVFeyjPwpj_Y"
+                                },
+                                "url": "https://sports.ndtv.com/english-premier-league/brentford-vs-chelsea-premier-league-when-and-where-to-watch-live-telecast-live-streaming-3446541",
+                                "snippet": "Chelsea would look to win 5 games on the trot as they take on giant-killing Brentford in the Premier League. Another win tonight will further strengthen the&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Brentford+vs+Chelsea#Brentford%20vs%20Chelsea"
+                    },
+                    {
+                        "title": {
+                            "query": "Gillman Barracks",
+                            "exploreLink": "/trends/explore?q=Gillman+Barracks&date=now+7-d&geo=SG"
+                        },
+                        "formattedTraffic": "1K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://youthopia.sg/read/gillman-barracks-to-be-rejuvenated-with-cyclist-friendly-cafe-live-entertainment/",
+                            "source": "Youthopia",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1wzyLQlYBP15XaAJYMQE5xxC6oiJ5EVxDozjLcs7QHT-MWFGZAC21-DXfq-mR-BctrsYwWxKn"
+                        },
+                        "articles": [
+                            {
+                                "title": "Gillman Barracks to be rejuvenated with cyclist friendly cafe, live ...",
+                                "timeAgo": "8h ago",
+                                "source": "Youthopia",
+                                "image": {
+                                    "newsUrl": "https://youthopia.sg/read/gillman-barracks-to-be-rejuvenated-with-cyclist-friendly-cafe-live-entertainment/",
+                                    "source": "Youthopia",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ1wzyLQlYBP15XaAJYMQE5xxC6oiJ5EVxDozjLcs7QHT-MWFGZAC21-DXfq-mR-BctrsYwWxKn"
+                                },
+                                "url": "https://youthopia.sg/read/gillman-barracks-to-be-rejuvenated-with-cyclist-friendly-cafe-live-entertainment/",
+                                "snippet": "More dining and lifestyle options will be offered at Gillman Barracks by the end of 2023 as part of rejuvenation efforts by the Singapore Land Authority (SLA)."
+                            },
+                            {
+                                "title": "Gillman Barracks launches two new creative lifestyle tenders",
+                                "timeAgo": "6h ago",
+                                "source": "EdgeProp.sg",
+                                "image": {
+                                    "newsUrl": "https://www.edgeprop.sg/property-news/gillman-barracks-launches-two-new-creative-lifestyle-tenders",
+                                    "source": "EdgeProp.sg",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRwP6ARAVjqWnKqjpmaNh2ap24UMWgwb5GZzrVbIan3-odLj5QMqgLWKclrRvig0FuK91BQkNdG"
+                                },
+                                "url": "https://www.edgeprop.sg/property-news/gillman-barracks-launches-two-new-creative-lifestyle-tenders",
+                                "snippet": "SINGAPORE (EDGEPROP) - SLA has awarded five tenders for Gillman Barracks&#39; rejuvenation plan, concluding the first tender phase launched in May, and launched&nbsp;..."
+                            },
+                            {
+                                "title": "F&amp;B outlets with EV chargers, bicycle pit stop and less waste part of ...",
+                                "timeAgo": "2h ago",
+                                "source": "TODAY",
+                                "image": {
+                                    "newsUrl": "https://www.todayonline.com/singapore/gillman-barracks-revive-green-ev-bicycle-2023896",
+                                    "source": "TODAY",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR32wXoOCL5CySEHWgZTPU4goUcsKLtf3tqftkc4oGySU4oxA-C996tVSJYZfzcpn0sEMg18H_a"
+                                },
+                                "url": "https://www.todayonline.com/singapore/gillman-barracks-revive-green-ev-bicycle-2023896",
+                                "snippet": "SINGAPORE \u2014 In the next two years, motorcycle-themed restaurant Handlebar plans to install three electric chargers for motorbikes at their outlet in Gillman&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=SG&tt=Gillman+Barracks#Gillman%20Barracks"
+                    }
+                ]
+            }
+        ],
+        "endDateForNextRequest": "20221018",
+        "rssFeedPageUrl": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=SG"
+    }
+}
